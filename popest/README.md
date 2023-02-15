@@ -1,0 +1,1 @@
+This repository contains the estimates of the muskrat and coypu populations in the Life MICA project areas over the period 2019-2023, as well as the input data and scripts that were used for the calculations.
