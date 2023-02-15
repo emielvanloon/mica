@@ -1,0 +1,1 @@
+This repository contains the field observations on occurence of target species in Life MICA project areas over the period 2021-2023, as well as additional information on biodiversity and analysis scripts.
