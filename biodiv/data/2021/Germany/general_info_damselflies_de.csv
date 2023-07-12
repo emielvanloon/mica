@@ -1,0 +1,16 @@
+﻿Area,Section,Meters,X-coordinates,Y-coordinates
+Aschauteiche_nord,A,0-50,N52° 45.414' ,E10° 16.281'
+Aschauteiche_nord,B,50-100,N52° 45.403' ,E10° 16.239'
+Aschauteiche_nord,C,100-150,N52° 45.393' ,E10° 16.199'
+Aschauteiche_nord,D,150-200,N52° 45.411',E10° 16.181'
+Aschauteiche_nord,E,200-250,N52° 45.442' ,E10° 16.180'
+DS1 (am Randkanal),A,0-50,X-Wert: 0454423,Y-Wert: 5821747
+DS1 (am Randkanal),B,50-100,x-Wert: 0454460,y-Wert: 5821780
+DS1 (am Randkanal),C,100-150,x-Wert: 0454493,y-Wert: 5821817
+DS1 (am Randkanal),D,150-200,x-Wert: 0454536,y-Wert: 5821849
+DS1 (am Randkanal),E,200-250,x-Wert: 0454564 - 0454598,y-Wert: 5821896 - 5821932
+DS2 (an der Hunte),A,0-50,X-Wert: 0455259,Y-Wert: 5823891
+DS2 (an der Hunte),B,50-100,x-Wert: 0455247,y-Wert: 5823938
+DS2 (an der Hunte),C,100-150,x-Wert: 0455250,y-Wert: 5823988
+DS2 (an der Hunte),D,150-200,x-Wert: 0455258,y-Wert: 5824037
+DS2 (an der Hunte),E,200-250,x-Wert: 0455272 - 0455284,y-Wert: 5824081 - 5824130

@@ -1,0 +1,403 @@
+Area,Stop,Round,Year,Month,Day,Time,Species (ger/lat),Species (eng/lat),Amount,Behavioural code,Comment
+AT1,0,1,2021,4,20,06:25 beginning,Graugans (Anser anser) ,,4,1;3,swimming
+AT1,0,1,2021,4,20,06:25 beginning,Graugans (Anser anser) ,,4,1;3;6,sitting
+AT1,0,1,2021,4,20,06:25 beginning,Graureiher (Ardea cinerea),,1,1,flying
+AT1,100,1,2021,4,20,06:25 beginning,0,0,0,0,0
+AT1,200,1,2021,4,20,06:25 beginning,Höckerschwan (Cygnus olor),,2,1;6,swimming
+AT1,200,1,2021,4,20,06:25 beginning,Stockente (Anas platyrhynchos),,2,1,flying
+AT1,300,1,2021,4,20,06:25 beginning,Graureiher (Ardea cinerea),,1,1,sitting
+AT1,300,1,2021,4,20,06:25 beginning,Graugans (Anser anser) ,,2,1;3,swimming
+AT1,300,1,2021,4,20,06:25 beginning,Bekassine ? (Gallinago gallinago),,1,,flying
+AT1,400,1,2021,4,20,06:25 beginning,Fischadler (Pandion haliaetus),,1,1,flying
+AT1,500,1,2021,4,20,06:25 beginning,0,0,0,0,0
+AT1,600,1,2021,4,20,06:25 beginning,Graugans (Anser anser) ,,5,1,flying
+AT1,600,1,2021,4,20,06:25 beginning,Fischadler (Pandion haliaetus),,1,1,flying
+AT1,600,1,2021,4,20,06:25 beginning,Blässhuhn (Fulica atra),,1,1,swimming
+AT1,700,1,2021,4,20,06:25 beginning,0,0,0,0,0
+AT1,800,1,2021,4,20,06:25 beginning,Blässhuhn (Fulica atra),,1,1,swimming
+AT1,900,1,2021,4,20,06:25 beginning,Stockente (Anas platyrhynchos),,2,1;3,swimming
+AT1,1000,1,2021,4,20,06:25 beginning,Graugans (Anser anser) ,,1,1,sitting
+AT1,1000,1,2021,4,20,06:25 beginning,Höckerschwan (Cygnus olor),,3,1;3,flying
+AT1,0,2,2021,5,19,05:10 beginning,Höckerschwan (Cygnus olor),,1,1,swimming
+AT1,0,2,2021,5,19,05:10 beginning,Höckerschwan (Cygnus olor),,1,6,sitting
+AT1,0,2,2021,5,19,05:10 beginning,Graugans (Anser anser) ,,1,1,swimming
+AT1,0,2,2021,5,19,05:10 beginning,Graugans (Anser anser) ,,4,1,flying
+AT1,0,2,2021,5,19,05:10 beginning,Blässhuhn (Fulica atra),,2,1,swimming
+AT1,0,2,2021,5,19,05:10 beginning,Kranich (Grus grus),,1,2,singing
+AT1,100,2,2021,5,19,05:10 beginning,Graugans (Anser anser) ,,5,3,"swimming; 2 adults, 3 juveniles"
+AT1,100,2,2021,5,19,05:10 beginning,Höckerschwan (Cygnus olor),,1,1,swimming
+AT1,200,2,2021,5,19,05:10 beginning,Graugans (Anser anser) ,,4,3,"swimming; 1 adult, 3 juveniles"
+AT1,300,2,2021,5,19,05:10 beginning,Graugans (Anser anser) ,,2,1,flying
+AT1,400,2,2021,5,19,05:10 beginning,Stockente (Anas platyrhynchos),,3,1,flying
+AT1,400,2,2021,5,19,05:10 beginning,Stockente (Anas platyrhynchos),,1,1,swimming
+AT1,500,2,2021,5,19,05:10 beginning,Blässhuhn (Fulica atra),,1,1,swimming
+AT1,600,2,2021,5,19,05:10 beginning,Graugans (Anser anser) ,,2,1,flying
+AT1,700,2,2021,5,19,05:10 beginning,Blässhuhn (Fulica atra),,1,1,swimming
+AT1,800,2,2021,5,19,05:10 beginning,0,,0,0,0
+AT1,900,2,2021,5,19,05:10 beginning,Teichrohrsänger? (Acrocephalus scirpaceus),,2,1,singing
+AT1,1000,2,2021,5,19,05:10 beginning,Teichrohrsänger? (Acrocephalus scirpaceus),,3,1,singing
+AT1,0,3,2021,5,31,05:20 beginning,Stockente (Anas platyrhynchos),,2,3,flying
+AT1,0,3,2021,5,31,05:20 beginning,Blässhuhn (Fulica atra),,1,1,swimming
+AT1,0,3,2021,5,31,05:20 beginning,Höckerschwan (Cygnus olor),,1,1; 15,breeding
+AT1,0,3,2021,5,31,05:20 beginning,Kanadagans (Branta canadensis),,13,3,"6 adults, 7 juveniles"
+AT1,100,3,2021,5,31,05:20 beginning,Reiherente (Aythya fuligula),,1,1,swimming
+AT1,200,3,2021,5,31,05:20 beginning,Höckerschwan (Cygnus olor),,1,1; 7,swimming
+AT1,300,3,2021,5,31,05:20 beginning,0,0,0,0,0
+AT1,400,3,2021,5,31,05:20 beginning,Graureiher (Ardea cinerea),,1,1,flying
+AT1,400,3,2021,5,31,05:20 beginning,Stockente (Anas platyrhynchos),,1,1,swimming (male)
+AT1,500,3,2021,5,31,05:20 beginning,Reiherente (Aythya fuligula),,4,3,swimming
+AT1,500,3,2021,5,31,05:20 beginning,Graugans (Anser anser) ,,2,3,swimming
+AT1,500,3,2021,5,31,05:20 beginning,Graureiher (Ardea cinerea),,1,1,flying
+AT1,500,3,2021,5,31,05:20 beginning,Kanadagans (Branta canadensis),,5,3,flying
+AT1,600,3,2021,5,31,05:20 beginning,Blässhuhn (Fulica atra),,1,1,swimming
+AT1,700,3,2021,5,31,05:20 beginning,Blässhuhn (Fulica atra),,1,1,swimming
+AT1,700,3,2021,5,31,05:20 beginning,Stockente (Anas platyrhynchos),,1,1,flying
+AT1,800,3,2021,5,31,05:20 beginning,Graureiher (Ardea cinerea),,1,1,flying
+AT1,800,3,2021,5,31,05:20 beginning,Stockente (Anas platyrhynchos),,1,1,flying (male)
+AT1,800,3,2021,5,31,05:20 beginning,Schwarzstorch (Ciconia nigra),,1,1,flying
+AT1,900,3,2021,5,31,05:20 beginning,Reiherente (Aythya fuligula),,2,3,flying
+AT1,900,3,2021,5,31,05:20 beginning,Graureiher (Ardea cinerea),,1,1,flying
+AT1,1000,3,2021,5,31,05:20 beginning,Reiherente (Aythya fuligula),,2,3,flying
+AT1,1000,3,2021,5,31,05:20 beginning,Teichrohrsänger? (Acrocephalus scirpaceus),,3,2,singing
+AT1,0,4,2021,6,17,07:30 beginning,Höckerschwan (Cygnus olor),,1,6,sitting on nest
+AT1,0,4,2021,6,17,07:30 beginning,Blässhuhn (Fulica atra),,4,6,"1 adult, 3 juveniles"
+AT1,0,4,2021,6,17,07:30 beginning,Graureiher (Ardea cinerea),,2,6,flying
+AT1,0,4,2021,6,17,07:30 beginning,Teichrohrsänger (Acrocephalus scirpaceus),,1,1,acoustic
+AT1,100,4,2021,6,17,07:30 beginning,Reiherente (Aythya fuligula),,1,6,swimming
+AT1,200,4,2021,6,17,07:30 beginning,Schwarzstorch (Ciconia nigra),,1,1,flying
+AT1,300,4,2021,6,17,07:30 beginning,Höckerschwan (Cygnus olor),,1,6,swimming
+AT1,400,4,2021,6,17,07:30 beginning,Blässhuhn (Fulica atra),,5,6,"2 adults, 3 juveniles"
+AT1,500,4,2021,6,17,07:30 beginning,0,0,0,0,0
+AT1,600,4,2021,6,17,07:30 beginning,Rohrschwirl (Locustella luscinioides) ,,1,6,?
+AT1,700,4,2021,6,17,07:30 beginning,Reiherente (Aythya fuligula),,2,6,flying
+AT1,700,4,2021,6,17,07:30 beginning,Fischadler (Pandion haliaetus),,1,1,flying
+AT1,800,4,2021,6,17,07:30 beginning,Kormoran (Phalacrocorax carbo),,1,1,flying
+AT1,800,4,2021,6,17,07:30 beginning,Teichrohrsänger (Acrocephalus scirpaceus),,1,6,sitting in reed
+AT1,900,4,2021,6,17,07:30 beginning,Reiherente (Aythya fuligula),,2,6,flying
+AT1,900,4,2021,6,17,07:30 beginning,Sumpfrohrsänger (Acrocephalus palustris,,1,6,"flying, feeding"
+AT1,900,4,2021,6,17,07:30 beginning,Teichrohrsänger (Acrocephalus scirpaceus),,1,6,sitting in reed
+AT1,1000,4,2021,6,17,07:30 beginning,Teichrohrsänger (Acrocephalus scirpaceus),,2,6,sitting in reed
+AT1,1000,4,2021,6,17,07:30 beginning,Drosselrohrsänger (Acrocephalus arundinaceus),,1,6,sitting in reed
+AT1,0,5,2021,6,25,10:10 beginning,Rohrsänger (Acrocephalus),,1,1,acoustic
+AT1,0,5,2021,6,25,10:10 beginning,Reiherente (Aythya fuligula),,2,1,flying
+AT1,100,5,2021,6,25,10:10 beginning,Blässhuhn (Fulica atra),,3,1;7,"swimming; 1 adult, 2 juveniles"
+AT1,100,5,2021,6,25,10:10 beginning,Rohrweihe (Circus aeruginosus),,1,1,flying
+AT1,200,5,2021,6,25,10:10 beginning,Schwarzstorch (Ciconia nigra),,1,1,flying
+AT1,300,5,2021,6,25,10:10 beginning,Höckerschwan (Cygnus olor),,2,1; 3,swimming
+AT1,400,5,2021,6,25,10:10 beginning,Blässhuhn (Fulica atra),,7,"1; 3, 16","swimming, breeding; 2 adults, 2 juveniles in one nest; 3 juveniles in second nest"
+AT1,600,5,2021,6,25,10:10 beginning,Höckerschwan (Cygnus olor),,4,1; 3; 16,"2 adults, 2 juveniles in nest"
+AT1,600,5,2021,6,25,10:10 beginning,Rotmilan (Milvus milvus),,2,1,flying
+AT1,600,5,2021,6,25,10:10 beginning,Teichrohrsänger (Acrocephalus scirpaceus),,2,1,acoustic
+AT1,800,5,2021,6,25,10:10 beginning,Teichrohrsänger (Acrocephalus scirpaceus),,3,1,acoustic
+AT1,900,5,2021,6,25,10:10 beginning,Drosselrohrsänger (Acrocephalus arundinaceus),,1,1,acoustic
+DS1,0,1,2021,5,8,3:40 beginning,Bekassine (Gallinago gallinago),,1,2,acoustic
+DS1,0,1,2021,5,8,3:40 beginning,Großer Brachvogel (Numenius arquata),,1,2,acoustic
+DS1,0,1,2021,5,8,3:40 beginning,Uferschnepfe (Limosa limosa),,1,2,acoustic
+DS1,0,1,2021,5,8,3:40 beginning,Löffelente (Spatula clypeataI),,2,2,acoustic
+DS1,200,1,2021,5,8,3:40 beginning,Blässhuhn (Fulica atra),,1,2,acoustic
+DS1,200,1,2021,5,8,3:40 beginning,Kiebitz (Vanellus vanellus),,1,2,acoustic
+DS1,200,1,2021,5,8,3:40 beginning,Löffelente (Spatula clypeataI),,2,2,acoustic
+DS1,200,1,2021,5,8,3:40 beginning,Kuckuck (Cuculus canorus),,2,2,acoustic
+DS1,200,1,2021,5,8,3:40 beginning,Tüpfelsumpfhuhn (Porzana porzana),,1,2,acoustic
+DS1,400,1,2021,5,8,3:40 beginning,Großer Brachvogel (Numenius arquata),,1,2,acoustic
+DS1,400,1,2021,5,8,3:40 beginning,Kiebitz (Vanellus vanellus),,2,2,acoustic
+DS1,400,1,2021,5,8,3:40 beginning,Löffelente (Spatula clypeataI),,1,2,acoustic
+DS1,400,1,2021,5,8,3:40 beginning,Rotschenkel (Tringa totanus),,1,2,acoustic
+DS1,600,1,2021,5,8,3:40 beginning,Löffelente (Spatula clypeataI),,2,2,acoustic
+DS1,600,1,2021,5,8,3:40 beginning,Kiebitz (Vanellus vanellus),,1,2,acoustic
+DS1,600,1,2021,5,8,3:40 beginning,Blässhuhn (Fulica atra),,1,2,acoustic
+DS1,800,1,2021,5,8,3:40 beginning,Kiebitz (Vanellus vanellus),,3,2,acoustic
+DS1,800,1,2021,5,8,3:40 beginning,Bekassine (Gallinago gallinago),,1,2,acoustic
+DS1,800,1,2021,5,8,3:40 beginning,Graugans (Anser anser) ,,>10,1,inklusiv Juvenile
+DS1,800,1,2021,5,8,3:40 beginning,Uferschnepfe (Limosa limosa),,1,2,acoustic
+DS1,1000,1,2021,5,8,4:28 end,Feldlerche (Alauda arvensis),,2,2,acoustic
+DS1,1000,1,2021,5,8,4:28 end,Kiebitz (Vanellus vanellus),,2,2,acoustic
+DS1,1000,1,2021,5,8,4:28 end,Bekassine (Gallinago gallinago),,1,2,acoustic
+DS1,1000,1,2021,5,8,4:28 end,Großer Brachvogel (Numenius arquata),,1,2,acoustic
+DS1,0,2,2021,5,28,3:10 beginning,Uferschnepfe (Limosa limosa),,1,2,acoustic
+DS1,0,2,2021,5,28,3:10 beginning,Großer Brachvogel (Numenius arquata),,2,2,acoustic
+DS1,0,2,2021,5,28,3:10 beginning,Kiebitz (Vanellus vanellus),,2,2,acoustic
+DS1,200,2,2021,5,28,3:10 beginning,Kiebitz (Vanellus vanellus),,1,2,acoustic
+DS1,200,2,2021,5,28,3:10 beginning,Blässhuhn (Fulica atra),,1,2,acoustic
+DS1,200,2,2021,5,28,3:10 beginning,Uferschnepfe (Limosa limosa),,1,2,acoustic
+DS1,200,2,2021,5,28,3:10 beginning,Löffelente (Spatula clypeataI),,1,1,acoustic
+DS1,200,2,2021,5,28,3:10 beginning,Großer Brachvogel (Numenius arquata),,1,2,acoustic
+DS1,200,2,2021,5,28,3:10 beginning,Schafstelze (Motacilla flava),,1,2,acoustic
+DS1,200,2,2021,5,28,3:10 beginning,Zwergtaucher (Tachybaptus ruficollis),,2,2,(5?) aus Stopp 3
+DS1,200,2,2021,5,28,3:10 beginning,Tüpfelsumpfhuhn (Porzana porzana),,1,2,acoustic
+DS1,200,2,2021,5,28,3:10 beginning,Kuckuck (Cuculus canorus),,1,2,acoustic
+DS1,400,2,2021,5,28,3:10 beginning,Uferschnepfe (Limosa limosa),,1,2,acoustic
+DS1,400,2,2021,5,28,3:10 beginning,Großer Brachvogel (Numenius arquata),,1,2,acoustic
+DS1,400,2,2021,5,28,3:10 beginning,Kiebitz (Vanellus vanellus),,1,2,acoustic
+DS1,400,2,2021,5,28,3:10 beginning,Bekassine (Gallinago gallinago),,1,2,acoustic
+DS1,400,2,2021,5,28,3:10 beginning,Schafstelze (Motacilla flava),,1,2,acoustic
+DS1,600,2,2021,5,28,3:10 beginning,Rotschenkel (Tringa totanus),,1,2,acoustic
+DS1,600,2,2021,5,28,3:10 beginning,Kiebitz (Vanellus vanellus),,2,2,acoustic
+DS1,600,2,2021,5,28,3:10 beginning,Schafstelze (Motacilla flava),,1,2,acoustic
+DS1,600,2,2021,5,28,3:10 beginning,Großer Brachvogel (Numenius arquata),,1,2,acoustic
+DS1,800,2,2021,5,28,3:10 beginning,Kiebitz (Vanellus vanellus),,3,2,acoustic
+DS1,800,2,2021,5,28,3:10 beginning,Uferschnepfe (Limosa limosa),,3,2,acoustic
+DS1,800,2,2021,5,28,3:10 beginning,Löffelente (Spatula clypeataI),,1,1,acoustic
+DS1,800,2,2021,5,28,3:10 beginning,Bekassine (Gallinago gallinago),,1,2,acoustic
+DS1,800,2,2021,5,28,3:10 beginning,Blässhuhn (Fulica atra),,1,2,acoustic
+DS1,800,2,2021,5,28,3:10 beginning,Großer Brachvogel (Numenius arquata),,1,2,acoustic
+DS1,800,2,2021,5,28,3:10 beginning,Kuckuck (Cuculus canorus),,1,2,acoustic
+DS1,1000,2,2021,5,28,3:54 end,Feldlerche (Alauda arvensis),,3,2,acoustic
+DS1,1000,2,2021,5,28,3:54 end,Bekassine (Gallinago gallinago),,1,2,acoustic
+DS1,1000,2,2021,5,28,3:54 end,Graugans (Anser anser) ,,>10,1,acoustic
+DS1,0,3,2021,6,9,3:09 beginning,Blässhuhn (Fulica atra),,1,1,acoustic
+DS1,0,3,2021,6,9,3:09 beginning,Sumpfrohrsänger (Acrocephalus palustris,,1,2,acoustic
+DS1,0,3,2021,6,9,3:09 beginning,Graugans (Anser anser) ,,>1,1,acoustic
+DS1,400,3,2021,6,9,3:09 beginning,Kiebitz (Vanellus vanellus),,1,2,acoustic
+DS1,400,3,2021,6,9,3:09 beginning,Blässhuhn (Fulica atra),,1,2,acoustic
+DS1,400,3,2021,6,9,3:09 beginning,Graugans (Anser anser) ,,>1,1,acoustic
+DS1,400,3,2021,6,9,3:09 beginning,Kuckuck (Cuculus canorus),,1,2,acoustic
+DS1,400,3,2021,6,9,3:09 beginning,Bekassine (Gallinago gallinago),,1,2,acoustic
+DS1,400,3,2021,6,9,3:09 beginning,Schilfrohrsänger (Acrocephalus schoenobaenus),,1,2,acoustic
+DS1,600,3,2021,6,9,3:09 beginning,Graugans (Anser anser) ,,>1,1,acoustic
+DS1,600,3,2021,6,9,3:09 beginning,Kiebitz (Vanellus vanellus),,1,2,acoustic
+DS1,800,3,2021,6,9,3:09 beginning,Kiebitz (Vanellus vanellus),,1,2,acoustic
+DS1,800,3,2021,6,9,3:09 beginning,Sumpfrohrsänger (Acrocephalus palustris,,1,2,acoustic
+DS1,800,3,2021,6,9,3:09 beginning,Rotschenkel (Tringa totanus),,1,2,acoustic
+DS1,800,3,2021,6,9,3:09 beginning,Graugans (Anser anser) ,,>1,1,acoustic
+DS1,1000,3,2021,6,9,3:55 end,Kiebitz (Vanellus vanellus),,4,7.2,acoustic
+DS1,1000,3,2021,6,9,3:55 end,Bekassine (Gallinago gallinago),,1,2,acoustic
+DS1,1000,3,2021,6,9,3:55 end,Feldlerche (Alauda arvensis),,2,2,acoustic
+DS1,1000,3,2021,6,9,3:55 end,Kuckuck (Cuculus canorus),,2,2,acoustic
+DS1,1000,3,2021,6,9,3:55 end,Rohrammer (Schoeniclus schoeniclus),,1,2,acoustic
+DS1,1000,3,2021,6,9,3:55 end,Rotschenkel (Tringa totanus),,1,2,acoustic
+DS1,1000,3,2021,6,9,3:55 end,Großer Brachvogel (Numenius arquata),,1,2,acoustic
+DS1,1000,3,2021,6,9,3:55 end,Austernfischer (Haematopus ostralegus),,1,7,acoustic
+DS1,0,4,2021,6,16,10:33 beginning,Sumpfrohrsänger (Acrocephalus palustris,,1,2,acoustic
+DS1,0,4,2021,6,16,10:33 beginning,Stockente (Anas platyrhynchos),,3,1,seen
+DS1,0,4,2021,6,16,10:33 beginning,Rohrammer (Schoeniclus schoeniclus),,2,2,acoustic
+DS1,0,4,2021,6,16,10:33 beginning,Schafstelze (Motacilla flava),,2,2,acoustic
+DS1,0,4,2021,6,16,10:33 beginning,Graugans (Anser anser) ,,6,1,seen
+DS1,0,4,2021,6,16,10:33 beginning,Feldlerche (Alauda arvensis),,1,2,acoustic
+DS1,200,4,2021,6,16,10:33 beginning,Blaukehlchen (Luscinia svecica),,2,2,acoustic
+DS1,200,4,2021,6,16,10:33 beginning,Schafstelze (Motacilla flava),,1 + 1,2.1,1 acoustic + 1 seen
+DS1,400,4,2021,6,16,10:33 beginning,Stockente (Anas platyrhynchos),,2,1,"seen, ♂"
+DS1,400,4,2021,6,16,10:33 beginning,Wiesenpieper (Anthus pratensis),,1,7,acoustic
+DS1,400,4,2021,6,16,10:33 beginning,Kiebitz (Vanellus vanellus),,2,2,seen
+DS1,400,4,2021,6,16,10:33 beginning,Schafstelze (Motacilla flava),,1,2,acoustic
+DS1,400,4,2021,6,16,10:33 beginning,Feldlerche (Alauda arvensis),,2,2,acoustic
+DS1,400,4,2021,6,16,10:33 beginning,Großer Brachvogel (Numenius arquata),,1,2,acoustic
+DS1,400,4,2021,6,16,10:33 beginning,Graugans (Anser anser) ,,5,2,seen
+DS1,400,4,2021,6,16,10:33 beginning,Nilgans (Alopochen aegyptiaca),,2,1,seen
+DS1,600,4,2021,6,16,10:33 beginning,Brandgans (Tadorna tadorna),,1,1,seen
+DS1,600,4,2021,6,16,10:33 beginning,Löffelente (Spatula clypeataI),,1,7,
+DS1,600,4,2021,6,16,10:33 beginning,Löffelente (Spatula clypeataI),,10,,juvenile
+DS1,600,4,2021,6,16,10:33 beginning,Graugans (Anser anser) ,,35,1,seen
+DS1,600,4,2021,6,16,10:33 beginning,Kiebitz (Vanellus vanellus),,2,1,seen
+DS1,600,4,2021,6,16,10:33 beginning,Nilgans (Alopochen aegyptiaca),,3,1,seen
+DS1,600,4,2021,6,16,10:33 beginning,Feldlerche (Alauda arvensis),,1,2,acoustic
+DS1,600,4,2021,6,16,10:33 beginning,Schafstelze (Motacilla flava),,2,2,acoustic
+DS1,600,4,2021,6,16,10:33 beginning,Stockente (Anas platyrhynchos),,1,1,"seen, ♀"
+DS1,800,4,2021,6,16,10:33 beginning,Kiebitz (Vanellus vanellus),,3,7,seen
+DS1,800,4,2021,6,16,10:33 beginning,Schafstelze (Motacilla flava),,2 + 2,7,"2 acoustic, 2 seen"
+DS1,800,4,2021,6,16,10:33 beginning,Feldlerche (Alauda arvensis),,2,2,seen
+DS1,800,4,2021,6,16,10:33 beginning,Rohrammer (Schoeniclus schoeniclus),,1,2,acoustic
+DS1,800,4,2021,6,16,10:33 beginning,Graugans (Anser anser) ,,3,1,seen
+DS1,1000,4,2021,6,16,11:25 end,Schafstelze (Motacilla flava),,3,2,acoustic
+DS1,1000,4,2021,6,16,11:25 end,Kiebitz (Vanellus vanellus),,4,7,"seen, probably same as stop 5"
+DS1,1000,4,2021,6,16,11:25 end,Knäkente (Anas querquedula),,1,10,"seen, ♀"
+DS1,1000,4,2021,6,16,11:25 end,Schafstelze (Motacilla flava),,1,2,seen
+DS1,1000,4,2021,6,16,11:25 end,Reiherente (Aythya fuligula),,1,1,"seen, ♀"
+DS1,1000,4,2021,6,16,11:25 end,Rohrammer (Schoeniclus schoeniclus),,1,2,acoustic
+DS1,0,5,2021,6,25,10:20:00 beginning,Feldlerche (Alauda arvensis),,1,2,acoustic
+DS1,0,5,2021,6,25,10:20:00 beginning,Kiebitz (Vanellus vanellus),,2,7,seen
+DS1,0,5,2021,6,25,10:20:00 beginning,Kormoran (Phalacrocorax carbo),,1,0,seen
+DS1,0,5,2021,6,25,10:20:00 beginning,Rohrammer (Schoeniclus schoeniclus),,2,2,acoustic
+DS1,0,5,2021,6,25,10:20:00 beginning,Schafstelze (Motacilla flava),,2,2,acoustic
+DS1,0,5,2021,6,25,10:20:00 beginning,Sumpfrohrsänger (Acrocephalus palustris,,1,2,acoustic
+DS1,0,5,2021,6,25,10:20:00 beginning,Blässhuhn (Fulica atra),,1,2,acoustic
+DS1,200,5,2021,6,25,10:20:00 beginning,Graugans (Anser anser) ,,20,1,seen
+DS1,200,5,2021,6,25,10:20:00 beginning,Rohrammer (Schoeniclus schoeniclus),,1,2,acoustic
+DS1,200,5,2021,6,25,10:20:00 beginning,Schafstelze (Motacilla flava),,1,2,acoustic
+DS1,200,5,2021,6,25,10:20:00 beginning,Wiesenpieper (Anthus pratensis),,1,2,acoustic
+DS1,400,5,2021,6,25,10:20:00 beginning,Eisvogel (Alcedo atthis),,,,"seen, flying, betwwen stop 2 and 3"
+DS1,400,5,2021,6,25,10:20:00 beginning,Feldlerche (Alauda arvensis),,2,2,acoustic
+DS1,400,5,2021,6,25,10:20:00 beginning,Löffelente (Spatula clypeataI),,1,1,"seen, ♀"
+DS1,400,5,2021,6,25,10:20:00 beginning,Rohrammer (Schoeniclus schoeniclus),,1,2,acoustic
+DS1,400,5,2021,6,25,10:20:00 beginning,Schafstelze (Motacilla flava),,1 + 1,2,1 acoustic + 1 seen
+DS1,400,5,2021,6,25,10:20:00 beginning,Brandgans (Tadorna tadorna),,2,1,seen
+DS1,600,5,2021,6,25,10:20:00 beginning,Graugans (Anser anser) ,,7,1,seen
+DS1,600,5,2021,6,25,10:20:00 beginning,Graugans (Anser anser) ,,3 + 10(juvenile),1,seen
+DS1,600,5,2021,6,25,10:20:00 beginning,Knäkente (Anas querquedula),,3,12,seen
+DS1,600,5,2021,6,25,10:20:00 beginning,Löffelente (Spatula clypeataI),,2,1,seen
+DS1,600,5,2021,6,25,10:20:00 beginning,Feldlerche (Alauda arvensis),,1,2,acoustic
+DS1,600,5,2021,6,25,10:20:00 beginning,Kiebitz (Vanellus vanellus),,1+1,7,1 acoustic + 1 seen
+DS1,600,5,2021,6,25,10:20:00 beginning,Schafstelze (Motacilla flava),,1,2,acoustic
+DS1,800,5,2021,6,25,10:20:00 beginning,Schafstelze (Motacilla flava),,2+1,2,"2 acoustic, 1 seen"
+DS1,800,5,2021,6,25,10:20:00 beginning,Rohrammer (Schoeniclus schoeniclus),,1,2,acoustic
+DS1,800,5,2021,6,25,10:20:00 beginning,Kiebitz (Vanellus vanellus),,2+3,2,"2 acoustic, 3 seen"
+DS1,800,5,2021,6,25,10:20:00 beginning,Graugans (Anser anser) ,,20,1,seen
+DS1,800,5,2021,6,25,10:20:00 beginning,Stockente (Anas platyrhynchos),,1,1,"seen, ♀"
+DS1,800,5,2021,6,25,10:20:00 beginning,Feldlerche (Alauda arvensis),,1,2,acoustic
+DS1,1000,5,2021,6,25,11:12 end,Feldlerche (Alauda arvensis),,2,2,seen
+DS1,1000,5,2021,6,25,11:12 end,Schafstelze (Motacilla flava),,3+2,2,"3 acoustic, 2 seen"
+DS1,1000,5,2021,6,25,11:12 end,Wiesenpieper (Anthus pratensis),,1,1,seen
+DS1,1000,5,2021,6,25,11:12 end,Uferschnepfe (Limosa limosa),,2,2,acoustic
+DS1,1000,5,2021,6,25,11:12 end,Graugans (Anser anser) ,,2,1,seen
+DS1,1000,5,2021,6,25,11:12 end,Kiebitz (Vanellus vanellus),,1,2,seen
+DS2,0,1,2021,5,9,3:42 beginning,Graugans (Anser anser) ,,>2,1,acoustic
+DS2,0,1,2021,5,9,3:42 beginning,Blässhuhn (Fulica atra),,1,2,acoustic
+DS2,0,1,2021,5,9,3:42 beginning,Kiebitz (Vanellus vanellus),,2,2,acoustic
+DS2,200,1,2021,5,9,3:42 beginning,Großer Brachvogel (Numenius arquata),,1,2,acoustic
+DS2,400,1,2021,5,9,3:42 beginning,Bekassine (Gallinago gallinago),,2,2,acoustic
+DS2,400,1,2021,5,9,3:42 beginning,Kiebitz (Vanellus vanellus),,2,2,acoustic
+DS2,400,1,2021,5,9,3:42 beginning,Schilfrohrsänger (Acrocephalus schoenobaenus),,1,2,acoustic
+DS2,600,1,2021,5,9,3:42 beginning,Rohrammer (Schoeniclus schoeniclus),,2,2,acoustic
+DS2,600,1,2021,5,9,3:42 beginning,Feldlerche (Alauda arvensis),,1,2,acoustic
+DS2,600,1,2021,5,9,3:42 beginning,Kiebitz (Vanellus vanellus),,2,2,acoustic
+DS2,600,1,2021,5,9,3:42 beginning,Teichrohrsänger (Acrocephalus scirpaceus),,3,2,acoustic
+DS2,600,1,2021,5,9,3:42 beginning,Feldschwirl (Locustella naevia),,1,2,acoustic
+DS2,600,1,2021,5,9,3:42 beginning,Bekassine (Gallinago gallinago),,1,2,acoustic
+DS2,800,1,2021,5,9,3:42 beginning,Kiebitz (Vanellus vanellus),,1,2,acoustic
+DS2,800,1,2021,5,9,3:42 beginning,Rohrammer (Schoeniclus schoeniclus),,2,2,acoustic
+DS2,800,1,2021,5,9,3:42 beginning,Feldlerche (Alauda arvensis),,2,2,acoustic
+DS2,800,1,2021,5,9,3:42 beginning,Kuckuck (Cuculus canorus),,1,2,acoustic
+DS2,1000,1,2021,5,9,4:23 end,Feldlerche (Alauda arvensis),,3,2,acoustic
+DS2,1000,1,2021,5,9,4:23 end,Stockente (Anas platyrhynchos),,1,7,acoustic
+DS2,1000,1,2021,5,9,4:23 end,Kiebitz (Vanellus vanellus),,1,2,acoustic
+DS2,1000,1,2021,5,9,4:23 end,Feldschwirl (Locustella naevia),,1,2,acoustic
+DS2,0,2,2021,5,29,3:24 beginning,Kiebitz (Vanellus vanellus),,2,2,acoustic
+DS2,0,2,2021,5,29,3:24 beginning,Blässhuhn (Fulica atra),,1,1,acoustic
+DS2,0,2,2021,5,29,3:24 beginning,Schilfrohrsänger (Acrocephalus schoenobaenus),,2,2,acoustic
+DS2,0,2,2021,5,29,3:24 beginning,Graugans (Anser anser) ,,1,1,acoustic
+DS2,0,2,2021,5,29,3:24 beginning,Stockente (Anas platyrhynchos),,1,1,acoustic
+DS2,0,2,2021,5,29,3:24 beginning,Kuckuck (Cuculus canorus),,1,2,acoustic
+DS2,200,2,2021,5,29,3:24 beginning,Schilfrohrsänger (Acrocephalus schoenobaenus),,3,2,acoustic
+DS2,200,2,2021,5,29,3:24 beginning,Stockente (Anas platyrhynchos),,2,1,acoustic
+DS2,200,2,2021,5,29,3:24 beginning,Löffelente (Spatula clypeataI),,1,1,acoustic
+DS2,200,2,2021,5,29,3:24 beginning,Großer Brachvogel (Numenius arquata),,1,2,acoustic
+DS2,200,2,2021,5,29,3:24 beginning,Kiebitz (Vanellus vanellus),,1,2,acoustic
+DS2,200,2,2021,5,29,3:24 beginning,Wachtel (Coturnix coturnix),,1,2,acoustic
+DS2,200,2,2021,5,29,3:24 beginning,Uferschnepfe (Limosa limosa),,1,2,acoustic
+DS2,400,2,2021,5,29,3:24 beginning,Feldschwirl (Locustella naevia),,2,2,acoustic
+DS2,400,2,2021,5,29,3:24 beginning,Feldlerche (Alauda arvensis),,3,2,acoustic
+DS2,400,2,2021,5,29,3:24 beginning,Bekassine (Gallinago gallinago),,1,2,acoustic
+DS2,400,2,2021,5,29,3:24 beginning,Schilfrohrsänger (Acrocephalus schoenobaenus),,1,2,acoustic
+DS2,400,2,2021,5,29,3:24 beginning,Stockente (Anas platyrhynchos),,1,1,acoustic
+DS2,400,2,2021,5,29,3:24 beginning,Großer Brachvogel (Numenius arquata),,1,2,acoustic
+DS2,400,2,2021,5,29,3:24 beginning,Sumpfrohrsänger ? (Acrocephalus palustris,,1,2,acoustic
+DS2,600,2,2021,5,29,3:24 beginning,Feldschwirl (Locustella naevia),,2,2,acoustic
+DS2,600,2,2021,5,29,3:24 beginning,Bekassine (Gallinago gallinago),,1,2,acoustic
+DS2,600,2,2021,5,29,3:24 beginning,Kiebitz (Vanellus vanellus),,2,2,acoustic
+DS2,600,2,2021,5,29,3:24 beginning,Großer Brachvogel (Numenius arquata),,1,2,acoustic
+DS2,600,2,2021,5,29,3:24 beginning,Uferschnepfe (Limosa limosa),,1,2,acoustic
+DS2,600,2,2021,5,29,3:24 beginning,Feldlerche (Alauda arvensis),,1,2,acoustic
+DS2,800,2,2021,5,29,3:24 beginning,Feldlerche (Alauda arvensis),,3,2,acoustic
+DS2,800,2,2021,5,29,3:24 beginning,Wachtel (Coturnix coturnix),,1,2,acoustic
+DS2,800,2,2021,5,29,3:24 beginning,Großer Brachvogel (Numenius arquata),,1,2,acoustic
+DS2,800,2,2021,5,29,3:24 beginning,Bekassine (Gallinago gallinago),,1,2,acoustic
+DS2,800,2,2021,5,29,3:24 beginning,Schafstelze (Motacilla flava),,1,2,acoustic
+DS2,800,2,2021,5,29,3:24 beginning,Kuckuck (Cuculus canorus),,1,2,acoustic
+DS2,1000,2,2021,5,29,4:16 end,Wachtel (Coturnix coturnix),,1,2,acoustic
+DS2,1000,2,2021,5,29,4:16 end,Löffelente (Spatula clypeataI),,1,1,acoustic
+DS2,1000,2,2021,5,29,4:16 end,Blässhuhn (Fulica atra),,1,1,acoustic
+DS2,1000,2,2021,5,29,4:16 end,Bekassine (Gallinago gallinago),,1,1,acoustic
+DS2,1000,2,2021,5,29,4:16 end,Feldlerche (Alauda arvensis),,2,2,acoustic
+DS2,0,3,2021,6,10,3:28 beginning,Sumpfrohrsänger (Acrocephalus palustris,,1,2,acoustic
+DS2,0,3,2021,6,10,3:28 beginning,Kiebitz (Vanellus vanellus),,2,2,acoustic
+DS2,0,3,2021,6,10,3:28 beginning,Kuckuck (Cuculus canorus),,1,2,acoustic
+DS2,0,3,2021,6,10,3:28 beginning,Schilfrohrsänger (Acrocephalus schoenobaenus),,1,2,acoustic
+DS2,0,3,2021,6,10,3:28 beginning,Stockente (Anas platyrhynchos),,2,2,acoustic
+DS2,0,3,2021,6,10,3:28 beginning,Bekassine (Gallinago gallinago),,1,2,acoustic
+DS2,0,3,2021,6,10,3:28 beginning,Uferschnepfe (Limosa limosa),,1,2,acoustic
+DS2,0,3,2021,6,10,3:28 beginning,Großer Brachvogel (Numenius arquata),,1,2,acoustic
+DS2,200,3,2021,6,10,3:28 beginning,Kiebitz (Vanellus vanellus),,1,2,acoustic
+DS2,200,3,2021,6,10,3:28 beginning,Blässhuhn (Fulica atra),,3,2,acoustic
+DS2,200,3,2021,6,10,3:28 beginning,Schilfrohrsänger (Acrocephalus schoenobaenus),,2,2,acoustic
+DS2,200,3,2021,6,10,3:28 beginning,Bekassine (Gallinago gallinago),,1,2,acoustic
+DS2,200,3,2021,6,10,3:28 beginning,Kuckuck (Cuculus canorus),,1,2,acoustic
+DS2,200,3,2021,6,10,3:28 beginning,Tüpfelsumpfhuhn (Porzana porzana),,1,2,acoustic
+DS2,400,3,2021,6,10,3:28 beginning,Schilfrohrsänger (Acrocephalus schoenobaenus),,2,2,acoustic
+DS2,400,3,2021,6,10,3:28 beginning,Sumpfrohrsänger (Acrocephalus palustris,,2,2,acoustic
+DS2,400,3,2021,6,10,3:28 beginning,Bekassine (Gallinago gallinago),,1,2,acoustic
+DS2,400,3,2021,6,10,3:28 beginning,Kuckuck (Cuculus canorus),,1,2,acoustic
+DS2,400,3,2021,6,10,3:28 beginning,Kiebitz (Vanellus vanellus),,1,2,acoustic
+DS2,400,3,2021,6,10,3:28 beginning,Tüpfelsumpfhuhn (Porzana porzana),,1,2,acoustic
+DS2,400,3,2021,6,10,3:28 beginning,Rotschenkel (Tringa totanus),,1,2,acoustic
+DS2,400,3,2021,6,10,3:28 beginning,Großer Brachvogel (Numenius arquata),,1,2,acoustic
+DS2,600,3,2021,6,10,3:28 beginning,Tüpfelsumpfhuhn (Porzana porzana),,1,2,acoustic
+DS2,600,3,2021,6,10,3:28 beginning,Feldschwirl (Locustella naevia),,1,2,acoustic
+DS2,600,3,2021,6,10,3:28 beginning,Schafstelze (Motacilla flava),,3,2,acoustic
+DS2,600,3,2021,6,10,3:28 beginning,Schilfrohrsänger (Acrocephalus schoenobaenus),,2,2,acoustic
+DS2,600,3,2021,6,10,3:28 beginning,Stockente (Anas platyrhynchos),,1,2,acoustic
+DS2,600,3,2021,6,10,3:28 beginning,Blaukehlchen (Luscinia svecica),,1,2,acoustic
+DS2,600,3,2021,6,10,3:28 beginning,Feldlerche (Alauda arvensis),,1,2,acoustic
+DS2,800,3,2021,6,10,3:28 beginning,Schilfrohrsänger (Acrocephalus schoenobaenus),,1,2,acoustic
+DS2,800,3,2021,6,10,3:28 beginning,Blässhuhn (Fulica atra),,1,2,acoustic
+DS2,800,3,2021,6,10,3:28 beginning,Stockente (Anas platyrhynchos),,1,2,acoustic
+DS2,800,3,2021,6,10,3:28 beginning,Großer Brachvogel (Numenius arquata),,1,2,acoustic
+DS2,1000,3,2021,6,10,4:09 end,Schafstelze (Motacilla flava),,2,2,acoustic
+DS2,1000,3,2021,6,10,4:09 end,Blässhuhn (Fulica atra),,3,2,acoustic
+DS2,1000,3,2021,6,10,4:09 end,Rohrammer (Schoeniclus schoeniclus),,2,2,acoustic
+DS2,1000,3,2021,6,10,4:09 end,Kuckuck (Cuculus canorus),,1,2,acoustic
+DS2,1000,3,2021,6,10,4:09 end,Feldlerche (Alauda arvensis),,3,2,acoustic
+DS2,0,4,2021,6,17,9:30 beginning,Dorngrasmücke (Sylvia communis),,1,2,seen
+DS2,0,4,2021,6,17,9:30 beginning,Dorngrasmücke (Sylvia communis),,1,14,"seen, ♀ "
+DS2,0,4,2021,6,17,9:30 beginning,Knäkente (Anas querquedula),,1,7,"seen, ♀ "
+DS2,0,4,2021,6,17,9:30 beginning,Stockente (Anas platyrhynchos),,5,1,seen
+DS2,0,4,2021,6,17,9:30 beginning,Löffelente (Spatula clypeataI),,1,1,"seen, ♀ "
+DS2,0,4,2021,6,17,9:30 beginning,Feldlerche (Alauda arvensis),,2,2,acoustic
+DS2,0,4,2021,6,17,9:30 beginning,Kiebitz (Vanellus vanellus),,10,7,seen
+DS2,0,4,2021,6,17,9:30 beginning,Kuckuck (Cuculus canorus),,1,2,acoustic
+DS2,0,4,2021,6,17,9:30 beginning,Großer Brachvogel (Numenius arquata),,1,2,acoustic
+DS2,0,4,2021,6,17,9:30 beginning,Wiesenpieper (Anthus pratensis),,1,2,seen
+DS2,200,4,2021,6,17,9:30 beginning,Kiebitz (Vanellus vanellus),,2,7,seen
+DS2,200,4,2021,6,17,9:30 beginning,Kiebitz (Vanellus vanellus),,2,2,seen
+DS2,200,4,2021,6,17,9:30 beginning,Rohrammer (Schoeniclus schoeniclus),,1,2,"seen, ♂"
+DS2,200,4,2021,6,17,9:30 beginning,Feldlerche (Alauda arvensis),,2,2,acoustic
+DS2,200,4,2021,6,17,9:30 beginning,Schafstelze (Motacilla flava),,2,2,acoustic
+DS2,200,4,2021,6,17,9:30 beginning,Schafstelze (Motacilla flava),,1,1,seen
+DS2,200,4,2021,6,17,9:30 beginning,Dorngrasmücke (Sylvia communis),,1,2,acoustic
+DS2,400,4,2021,6,17,9:30 beginning,Feldlerche (Alauda arvensis),,1+2,2,"1 acoustic, 2 seen"
+DS2,400,4,2021,6,17,9:30 beginning,Schafstelze (Motacilla flava),,4,2,seen
+DS2,400,4,2021,6,17,9:30 beginning,Rohrammer (Schoeniclus schoeniclus),,2,2,"seen, ♂"
+DS2,600,4,2021,6,17,9:30 beginning,Rohrammer (Schoeniclus schoeniclus),,3,2,acoustic
+DS2,600,4,2021,6,17,9:30 beginning,Teichrohrsänger (Acrocephalus scirpaceus),,1,2,acoustic
+DS2,600,4,2021,6,17,9:30 beginning,Sumpfrohrsänger (Acrocephalus palustris,,1,2,acoustic
+DS2,600,4,2021,6,17,9:30 beginning,Schafstelze (Motacilla flava),,3,2,acoustic
+DS2,600,4,2021,6,17,9:30 beginning,Feldlerche (Alauda arvensis),,2,2,acoustic
+DS2,800,4,2021,6,17,9:30 beginning,Dorngrasmücke (Sylvia communis),,1,2,seen
+DS2,800,4,2021,6,17,9:30 beginning,Rohrammer (Schoeniclus schoeniclus),,2,2,acoustic
+DS2,800,4,2021,6,17,9:30 beginning,Feldlerche (Alauda arvensis),,2,2,acoustic
+DS2,800,4,2021,6,17,9:30 beginning,Kiebitz (Vanellus vanellus),,2,1,seen
+DS2,800,4,2021,6,17,9:30 beginning,Kuckuck (Cuculus canorus),,1,2,acoustic
+DS2,800,4,2021,6,17,9:30 beginning,Schafstelze (Motacilla flava),,2+1,2,"2 acoustic, 1 seen"
+DS2,1000,4,2021,6,17,10:25 end,Löffelente (Spatula clypeataI),,1,10,"seen, ♀ "
+DS2,1000,4,2021,6,17,10:25 end,Feldlerche (Alauda arvensis),,2+1,2,"2 acoustic, 1 seen"
+DS2,1000,4,2021,6,17,10:25 end,Rohrammer (Schoeniclus schoeniclus),,1,2,acoustic
+DS2,1000,4,2021,6,17,10:25 end,Schafstelze (Motacilla flava),,2+2,2,"2 acoustic, 2 seen"
+DS2,1000,4,2021,6,17,10:25 end,Großer Brachvogel (Numenius arquata),,1,2,acoustic
+DS2,0,5,2021,6,25,9:30 beginning,Sumpfrohrsänger (Acrocephalus palustris,,1,2,seen
+DS2,0,5,2021,6,25,9:30 beginning,Löffelente (Spatula clypeataI),,1,1,"seen, 1 ♀ + 6 juvenile"
+DS2,0,5,2021,6,25,9:30 beginning,Knäkente (Anas querquedula),,1,1,"seen, ♀"
+DS2,0,5,2021,6,25,9:30 beginning,Teichrohrsänger (Acrocephalus scirpaceus),,1,2,acoustic
+DS2,0,5,2021,6,25,9:30 beginning,Wiesenpieper (Anthus pratensis),,1,2,seen
+DS2,200,5,2021,6,25,9:30 beginning,Kiebitz (Vanellus vanellus),,4,2,seen
+DS2,200,5,2021,6,25,9:30 beginning,Rohrammer (Schoeniclus schoeniclus),,3,2,acoustic
+DS2,200,5,2021,6,25,9:30 beginning,Feldlerche (Alauda arvensis),,2,2,acoustic
+DS2,200,5,2021,6,25,9:30 beginning,Schafstelze (Motacilla flava),,2,2,acoustic
+DS2,200,5,2021,6,25,9:30 beginning,Wiesenpieper (Anthus pratensis),,1,2,acoustic
+DS2,400,5,2021,6,25,9:30 beginning,Feldlerche (Alauda arvensis),,1+1,2,"1 acoustic, 1 seen"
+DS2,400,5,2021,6,25,9:30 beginning,Schafstelze (Motacilla flava),,2,2,acoustic
+DS2,400,5,2021,6,25,9:30 beginning,Rohrammer (Schoeniclus schoeniclus),,2,2,acoustic
+DS2,400,5,2021,6,25,9:30 beginning,Wiesenpieper (Anthus pratensis),,1,2,acoustic
+DS2,400,5,2021,6,25,9:30 beginning,Kiebitz (Vanellus vanellus),,2,2,acoustic
+DS2,600,5,2021,6,25,9:30 beginning,Dorngrasmücke (Sylvia communis),,1,1,seen
+DS2,600,5,2021,6,25,9:30 beginning,Sumpfrohrsänger (Acrocephalus palustris,,1,2,acoustic
+DS2,600,5,2021,6,25,9:30 beginning,Kiebitz (Vanellus vanellus),,1,7,seen
+DS2,600,5,2021,6,25,9:30 beginning,Feldlerche (Alauda arvensis),,2,2,acoustic
+DS2,600,5,2021,6,25,9:30 beginning,Rohrammer (Schoeniclus schoeniclus),,2,2,acoustic
+DS2,600,5,2021,6,25,9:30 beginning,Schilfrohrsänger (Acrocephalus schoenobaenus),,1,2,seen
+DS2,600,5,2021,6,25,9:30 beginning,Schafstelze (Motacilla flava),,2,2,acoustic
+DS2,800,5,2021,6,25,9:30 beginning,Wiesenpieper (Anthus pratensis),,1,2,seen
+DS2,800,5,2021,6,25,9:30 beginning,Feldlerche (Alauda arvensis),,2,2,acoustic
+DS2,800,5,2021,6,25,9:30 beginning,Schafstelze (Motacilla flava),,3,2,acoustic
+DS2,1000,5,2021,6,25,10:20 end,Löffelente (Spatula clypeataI),,1,10,"seen, ♀"
+DS2,1000,5,2021,6,25,10:20 end,Feldlerche (Alauda arvensis),,3,2,acoustic
+DS2,1000,5,2021,6,25,10:20 end,Schafstelze (Motacilla flava),,3+1,2,"3 acoustic, 1 seen"
+DS2,1000,5,2021,6,25,10:20 end,Dorngrasmücke (Sylvia communis),,1,2,acoustic

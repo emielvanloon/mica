@@ -1,0 +1,481 @@
+Locatie,Datum,Stops in meters,Locatie + Stops,Rondes,X,Y,Soorten,Aantal,Paringswiel,Ei-afzettend,Temperatuur,Bewolking,Neerslag,Bft
+Rijnstrangengemaal,6/4/21,0,Rijnstrangengemaal 0,Ronde_1,51.914393,6.004059,Azuurwaterjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,0,Rijnstrangengemaal 0,Ronde_1,51.914393,6.004059,Blauwe breedscheenjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,0,Rijnstrangengemaal 0,Ronde_1,51.914393,6.004059,Watersnuffel,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,0,Rijnstrangengemaal 0,Ronde_1,51.914393,6.004059,Kleine Roodoofjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,0,Rijnstrangengemaal 0,Ronde_1,51.914393,6.004059,Grote Roodoogjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,0,Rijnstrangengemaal 0,Ronde_1,51.914393,6.004059,Lantaarntje,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,0,Rijnstrangengemaal 0,Ronde_1,51.914393,6.004059,Variabele waterjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,0,Rijnstrangengemaal 0,Ronde_1,51.914393,6.004059,Maanwater juffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,0,Rijnstrangengemaal 0,Ronde_1,51.914393,6.004059,Speerwaterjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,0,Rijnstrangengemaal 0,Ronde_1,51.914393,6.004059,Donkere waterjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,50,Rijnstrangengemaal 50,Ronde_1,51.91431,6.00347,Azuurwaterjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,50,Rijnstrangengemaal 50,Ronde_1,51.91431,6.00347,Blauwe breedscheenjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,50,Rijnstrangengemaal 50,Ronde_1,51.91431,6.00347,Watersnuffel,1,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,50,Rijnstrangengemaal 50,Ronde_1,51.91431,6.00347,Kleine Roodoofjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,50,Rijnstrangengemaal 50,Ronde_1,51.91431,6.00347,Grote Roodoogjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,50,Rijnstrangengemaal 50,Ronde_1,51.91431,6.00347,Lantaarntje,2,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,50,Rijnstrangengemaal 50,Ronde_1,51.91431,6.00347,Variabele waterjuffer,2,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,50,Rijnstrangengemaal 50,Ronde_1,51.91431,6.00347,Maanwater juffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,50,Rijnstrangengemaal 50,Ronde_1,51.91431,6.00347,Speerwaterjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,50,Rijnstrangengemaal 50,Ronde_1,51.91431,6.00347,Donkere waterjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,100,Rijnstrangengemaal 100,Ronde_1,51.91451,6.00442,Azuurwaterjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,100,Rijnstrangengemaal 100,Ronde_1,51.91451,6.00442,Blauwe breedscheenjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,100,Rijnstrangengemaal 100,Ronde_1,51.91451,6.00442,Watersnuffel,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,100,Rijnstrangengemaal 100,Ronde_1,51.91451,6.00442,Kleine Roodoofjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,100,Rijnstrangengemaal 100,Ronde_1,51.91451,6.00442,Grote Roodoogjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,100,Rijnstrangengemaal 100,Ronde_1,51.91451,6.00442,Lantaarntje,1,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,100,Rijnstrangengemaal 100,Ronde_1,51.91451,6.00442,Variabele waterjuffer,1,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,100,Rijnstrangengemaal 100,Ronde_1,51.91451,6.00442,Maanwater juffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,100,Rijnstrangengemaal 100,Ronde_1,51.91451,6.00442,Speerwaterjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,100,Rijnstrangengemaal 100,Ronde_1,51.91451,6.00442,Donkere waterjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,150,Rijnstrangengemaal 150,Ronde_1,51.91467,6.00052,Azuurwaterjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,150,Rijnstrangengemaal 150,Ronde_1,51.91467,6.00052,Blauwe breedscheenjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,150,Rijnstrangengemaal 150,Ronde_1,51.91467,6.00052,Watersnuffel,1,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,150,Rijnstrangengemaal 150,Ronde_1,51.91467,6.00052,Kleine Roodoofjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,150,Rijnstrangengemaal 150,Ronde_1,51.91467,6.00052,Grote Roodoogjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,150,Rijnstrangengemaal 150,Ronde_1,51.91467,6.00052,Lantaarntje,4,1,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,150,Rijnstrangengemaal 150,Ronde_1,51.91467,6.00052,Variabele waterjuffer,3,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,150,Rijnstrangengemaal 150,Ronde_1,51.91467,6.00052,Maanwater juffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,150,Rijnstrangengemaal 150,Ronde_1,51.91467,6.00052,Speerwaterjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,150,Rijnstrangengemaal 150,Ronde_1,51.91467,6.00052,Donkere waterjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,200,Rijnstrangengemaal 200,Ronde_1,51.915024,6.006477,Azuurwaterjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,200,Rijnstrangengemaal 200,Ronde_1,51.915024,6.006477,Blauwe breedscheenjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,200,Rijnstrangengemaal 200,Ronde_1,51.915024,6.006477,Watersnuffel,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,200,Rijnstrangengemaal 200,Ronde_1,51.915024,6.006477,Kleine Roodoofjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,200,Rijnstrangengemaal 200,Ronde_1,51.915024,6.006477,Grote Roodoogjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,200,Rijnstrangengemaal 200,Ronde_1,51.915024,6.006477,Lantaarntje,1,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,200,Rijnstrangengemaal 200,Ronde_1,51.915024,6.006477,Variabele waterjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,200,Rijnstrangengemaal 200,Ronde_1,51.915024,6.006477,Maanwater juffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,200,Rijnstrangengemaal 200,Ronde_1,51.915024,6.006477,Speerwaterjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,200,Rijnstrangengemaal 200,Ronde_1,51.915024,6.006477,Donkere waterjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,250,Rijnstrangengemaal 250,Ronde_1,51.91518,6.00685,Azuurwaterjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,250,Rijnstrangengemaal 250,Ronde_1,51.91518,6.00685,Blauwe breedscheenjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,250,Rijnstrangengemaal 250,Ronde_1,51.91518,6.00685,Watersnuffel,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,250,Rijnstrangengemaal 250,Ronde_1,51.91518,6.00685,Kleine Roodoofjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,250,Rijnstrangengemaal 250,Ronde_1,51.91518,6.00685,Grote Roodoogjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,250,Rijnstrangengemaal 250,Ronde_1,51.91518,6.00685,Lantaarntje,,1,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,250,Rijnstrangengemaal 250,Ronde_1,51.91518,6.00685,Variabele waterjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,250,Rijnstrangengemaal 250,Ronde_1,51.91518,6.00685,Maanwater juffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,250,Rijnstrangengemaal 250,Ronde_1,51.91518,6.00685,Speerwaterjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangengemaal,6/4/21,250,Rijnstrangengemaal 250,Ronde_1,51.91518,6.00685,Donkere waterjuffer,,,,24,1/8,geen,ONO3
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_1,51.89936,6.09373,Azuurwaterjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_1,51.89936,6.09373,Blauwe breedscheenjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_1,51.89936,6.09373,Watersnuffel,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_1,51.89936,6.09373,Kleine Roodoofjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_1,51.89936,6.09373,Grote Roodoogjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_1,51.89936,6.09373,Lantaarntje,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_1,51.89936,6.09373,Variabele waterjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_1,51.89936,6.09373,Maanwater juffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_1,51.89936,6.09373,Speerwaterjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_1,51.89936,6.09373,Donkere waterjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_1,51.89908,6.09409,Azuurwaterjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_1,51.89908,6.09409,Blauwe breedscheenjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_1,51.89908,6.09409,Watersnuffel,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_1,51.89908,6.09409,Kleine Roodoofjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_1,51.89908,6.09409,Grote Roodoogjuffer,2,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_1,51.89908,6.09409,Lantaarntje,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_1,51.89908,6.09409,Variabele waterjuffer,4,1,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_1,51.89908,6.09409,Maanwater juffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_1,51.89908,6.09409,Speerwaterjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_1,51.89908,6.09409,Donkere waterjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_1,51.89888,6.09456,Azuurwaterjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_1,51.89888,6.09456,Blauwe breedscheenjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_1,51.89888,6.09456,Watersnuffel,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_1,51.89888,6.09456,Kleine Roodoofjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_1,51.89888,6.09456,Grote Roodoogjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_1,51.89888,6.09456,Lantaarntje,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_1,51.89888,6.09456,Variabele waterjuffer,,4,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_1,51.89888,6.09456,Maanwater juffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_1,51.89888,6.09456,Speerwaterjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_1,51.89888,6.09456,Donkere waterjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_1,51.89852,6.09507,Azuurwaterjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_1,51.89852,6.09507,Blauwe breedscheenjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_1,51.89852,6.09507,Watersnuffel,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_1,51.89852,6.09507,Kleine Roodoofjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_1,51.89852,6.09507,Grote Roodoogjuffer,2,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_1,51.89852,6.09507,Lantaarntje,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_1,51.89852,6.09507,Variabele waterjuffer,2,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_1,51.89852,6.09507,Maanwater juffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_1,51.89852,6.09507,Speerwaterjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_1,51.89852,6.09507,Donkere waterjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_1,51.89829,6.09653,Azuurwaterjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_1,51.89829,6.09653,Blauwe breedscheenjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_1,51.89829,6.09653,Watersnuffel,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_1,51.89829,6.09653,Kleine Roodoofjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_1,51.89829,6.09653,Grote Roodoogjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_1,51.89829,6.09653,Lantaarntje,2,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_1,51.89829,6.09653,Variabele waterjuffer,2,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_1,51.89829,6.09653,Maanwater juffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_1,51.89829,6.09653,Speerwaterjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_1,51.89829,6.09653,Donkere waterjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_1,51.89785,6.0959,Azuurwaterjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_1,51.89785,6.0959,Blauwe breedscheenjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_1,51.89785,6.0959,Watersnuffel,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_1,51.89785,6.0959,Kleine Roodoofjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_1,51.89785,6.0959,Grote Roodoogjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_1,51.89785,6.0959,Lantaarntje,1,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_1,51.89785,6.0959,Variabele waterjuffer,1,,2,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_1,51.89785,6.0959,Maanwater juffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_1,51.89785,6.0959,Speerwaterjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_1,51.89785,6.0959,Donkere waterjuffer,,,,25,1/8,geen,NNO2
+Rijnstrangengemaal,6/15/21,0,Rijnstrangengemaal 0,Ronde_2,51.914393,6.004059,Azuurwaterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,0,Rijnstrangengemaal 0,Ronde_2,51.914393,6.004059,Blauwe breedscheenjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,0,Rijnstrangengemaal 0,Ronde_2,51.914393,6.004059,Watersnuffel,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,0,Rijnstrangengemaal 0,Ronde_2,51.914393,6.004059,Kleine Roodoofjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,0,Rijnstrangengemaal 0,Ronde_2,51.914393,6.004059,Grote Roodoogjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,0,Rijnstrangengemaal 0,Ronde_2,51.914393,6.004059,Lantaarntje,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,0,Rijnstrangengemaal 0,Ronde_2,51.914393,6.004059,Variabele waterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,0,Rijnstrangengemaal 0,Ronde_2,51.914393,6.004059,Maanwater juffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,0,Rijnstrangengemaal 0,Ronde_2,51.914393,6.004059,Speerwaterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,0,Rijnstrangengemaal 0,Ronde_2,51.914393,6.004059,Donkere waterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,50,Rijnstrangengemaal 50,Ronde_2,51.91431,6.00347,Azuurwaterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,50,Rijnstrangengemaal 50,Ronde_2,51.91431,6.00347,Blauwe breedscheenjuffer,2,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,50,Rijnstrangengemaal 50,Ronde_2,51.91431,6.00347,Watersnuffel,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,50,Rijnstrangengemaal 50,Ronde_2,51.91431,6.00347,Kleine Roodoofjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,50,Rijnstrangengemaal 50,Ronde_2,51.91431,6.00347,Grote Roodoogjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,50,Rijnstrangengemaal 50,Ronde_2,51.91431,6.00347,Lantaarntje,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,50,Rijnstrangengemaal 50,Ronde_2,51.91431,6.00347,Variabele waterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,50,Rijnstrangengemaal 50,Ronde_2,51.91431,6.00347,Maanwater juffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,50,Rijnstrangengemaal 50,Ronde_2,51.91431,6.00347,Speerwaterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,50,Rijnstrangengemaal 50,Ronde_2,51.91431,6.00347,Donkere waterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,100,Rijnstrangengemaal 100,Ronde_2,51.91451,6.00442,Azuurwaterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,100,Rijnstrangengemaal 100,Ronde_2,51.91451,6.00442,Blauwe breedscheenjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,100,Rijnstrangengemaal 100,Ronde_2,51.91451,6.00442,Watersnuffel,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,100,Rijnstrangengemaal 100,Ronde_2,51.91451,6.00442,Kleine Roodoofjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,100,Rijnstrangengemaal 100,Ronde_2,51.91451,6.00442,Grote Roodoogjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,100,Rijnstrangengemaal 100,Ronde_2,51.91451,6.00442,Lantaarntje,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,100,Rijnstrangengemaal 100,Ronde_2,51.91451,6.00442,Variabele waterjuffer,1,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,100,Rijnstrangengemaal 100,Ronde_2,51.91451,6.00442,Maanwater juffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,100,Rijnstrangengemaal 100,Ronde_2,51.91451,6.00442,Speerwaterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,100,Rijnstrangengemaal 100,Ronde_2,51.91451,6.00442,Donkere waterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,150,Rijnstrangengemaal 150,Ronde_2,51.91467,6.00052,Azuurwaterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,150,Rijnstrangengemaal 150,Ronde_2,51.91467,6.00052,Blauwe breedscheenjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,150,Rijnstrangengemaal 150,Ronde_2,51.91467,6.00052,Watersnuffel,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,150,Rijnstrangengemaal 150,Ronde_2,51.91467,6.00052,Kleine Roodoofjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,150,Rijnstrangengemaal 150,Ronde_2,51.91467,6.00052,Grote Roodoogjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,150,Rijnstrangengemaal 150,Ronde_2,51.91467,6.00052,Lantaarntje,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,150,Rijnstrangengemaal 150,Ronde_2,51.91467,6.00052,Variabele waterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,150,Rijnstrangengemaal 150,Ronde_2,51.91467,6.00052,Maanwater juffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,150,Rijnstrangengemaal 150,Ronde_2,51.91467,6.00052,Speerwaterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,150,Rijnstrangengemaal 150,Ronde_2,51.91467,6.00052,Donkere waterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,200,Rijnstrangengemaal 200,Ronde_2,51.915024,6.006477,Azuurwaterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,200,Rijnstrangengemaal 200,Ronde_2,51.915024,6.006477,Blauwe breedscheenjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,200,Rijnstrangengemaal 200,Ronde_2,51.915024,6.006477,Watersnuffel,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,200,Rijnstrangengemaal 200,Ronde_2,51.915024,6.006477,Kleine Roodoofjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,200,Rijnstrangengemaal 200,Ronde_2,51.915024,6.006477,Grote Roodoogjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,200,Rijnstrangengemaal 200,Ronde_2,51.915024,6.006477,Lantaarntje,1,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,200,Rijnstrangengemaal 200,Ronde_2,51.915024,6.006477,Variabele waterjuffer,2,2,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,200,Rijnstrangengemaal 200,Ronde_2,51.915024,6.006477,Maanwater juffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,200,Rijnstrangengemaal 200,Ronde_2,51.915024,6.006477,Speerwaterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,200,Rijnstrangengemaal 200,Ronde_2,51.915024,6.006477,Donkere waterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,250,Rijnstrangengemaal 250,Ronde_2,51.91518,6.00685,Azuurwaterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,250,Rijnstrangengemaal 250,Ronde_2,51.91518,6.00685,Blauwe breedscheenjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,250,Rijnstrangengemaal 250,Ronde_2,51.91518,6.00685,Watersnuffel,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,250,Rijnstrangengemaal 250,Ronde_2,51.91518,6.00685,Kleine Roodoofjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,250,Rijnstrangengemaal 250,Ronde_2,51.91518,6.00685,Grote Roodoogjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,250,Rijnstrangengemaal 250,Ronde_2,51.91518,6.00685,Lantaarntje,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,250,Rijnstrangengemaal 250,Ronde_2,51.91518,6.00685,Variabele waterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,250,Rijnstrangengemaal 250,Ronde_2,51.91518,6.00685,Maanwater juffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,250,Rijnstrangengemaal 250,Ronde_2,51.91518,6.00685,Speerwaterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangengemaal,6/15/21,250,Rijnstrangengemaal 250,Ronde_2,51.91518,6.00685,Donkere waterjuffer,,,,19,1/4,geen,ONO2
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_2,51.89936,6.09373,Azuurwaterjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_2,51.89936,6.09373,Blauwe breedscheenjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_2,51.89936,6.09373,Watersnuffel,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_2,51.89936,6.09373,Kleine Roodoofjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_2,51.89936,6.09373,Grote Roodoogjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_2,51.89936,6.09373,Lantaarntje,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_2,51.89936,6.09373,Variabele waterjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_2,51.89936,6.09373,Maanwater juffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_2,51.89936,6.09373,Speerwaterjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_2,51.89936,6.09373,Donkere waterjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_2,51.89908,6.09409,Azuurwaterjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_2,51.89908,6.09409,Blauwe breedscheenjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_2,51.89908,6.09409,Watersnuffel,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_2,51.89908,6.09409,Kleine Roodoofjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_2,51.89908,6.09409,Grote Roodoogjuffer,2,1,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_2,51.89908,6.09409,Lantaarntje,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_2,51.89908,6.09409,Variabele waterjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_2,51.89908,6.09409,Maanwater juffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_2,51.89908,6.09409,Speerwaterjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_2,51.89908,6.09409,Donkere waterjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_2,51.89888,6.09456,Azuurwaterjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_2,51.89888,6.09456,Blauwe breedscheenjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_2,51.89888,6.09456,Watersnuffel,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_2,51.89888,6.09456,Kleine Roodoofjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_2,51.89888,6.09456,Grote Roodoogjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_2,51.89888,6.09456,Lantaarntje,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_2,51.89888,6.09456,Variabele waterjuffer,4,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_2,51.89888,6.09456,Maanwater juffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_2,51.89888,6.09456,Speerwaterjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_2,51.89888,6.09456,Donkere waterjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_2,51.89852,6.09507,Azuurwaterjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_2,51.89852,6.09507,Blauwe breedscheenjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_2,51.89852,6.09507,Watersnuffel,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_2,51.89852,6.09507,Kleine Roodoofjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_2,51.89852,6.09507,Grote Roodoogjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_2,51.89852,6.09507,Lantaarntje,3,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_2,51.89852,6.09507,Variabele waterjuffer,9,1,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_2,51.89852,6.09507,Maanwater juffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_2,51.89852,6.09507,Speerwaterjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_2,51.89852,6.09507,Donkere waterjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_2,51.89829,6.09653,Azuurwaterjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_2,51.89829,6.09653,Blauwe breedscheenjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_2,51.89829,6.09653,Watersnuffel,1,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_2,51.89829,6.09653,Kleine Roodoofjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_2,51.89829,6.09653,Grote Roodoogjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_2,51.89829,6.09653,Lantaarntje,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_2,51.89829,6.09653,Variabele waterjuffer,2,1,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_2,51.89829,6.09653,Maanwater juffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_2,51.89829,6.09653,Speerwaterjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_2,51.89829,6.09653,Donkere waterjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_2,51.89785,6.0959,Azuurwaterjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_2,51.89785,6.0959,Blauwe breedscheenjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_2,51.89785,6.0959,Watersnuffel,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_2,51.89785,6.0959,Kleine Roodoofjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_2,51.89785,6.0959,Grote Roodoogjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_2,51.89785,6.0959,Lantaarntje,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_2,51.89785,6.0959,Variabele waterjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_2,51.89785,6.0959,Maanwater juffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_2,51.89785,6.0959,Speerwaterjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_2,51.89785,6.0959,Donkere waterjuffer,,,,17.9,1/8,geen,O2
+Rijnstrangengemaal,7/9/21,0,Rijnstrangengemaal 0,Ronde_3,51.914393,6.004059,Azuurwaterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,0,Rijnstrangengemaal 0,Ronde_3,51.914393,6.004059,Blauwe breedscheenjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,0,Rijnstrangengemaal 0,Ronde_3,51.914393,6.004059,Watersnuffel,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,0,Rijnstrangengemaal 0,Ronde_3,51.914393,6.004059,Kleine Roodoofjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,0,Rijnstrangengemaal 0,Ronde_3,51.914393,6.004059,Grote Roodoogjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,0,Rijnstrangengemaal 0,Ronde_3,51.914393,6.004059,Lantaarntje,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,0,Rijnstrangengemaal 0,Ronde_3,51.914393,6.004059,Variabele waterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,0,Rijnstrangengemaal 0,Ronde_3,51.914393,6.004059,Maanwater juffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,0,Rijnstrangengemaal 0,Ronde_3,51.914393,6.004059,Speerwaterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,0,Rijnstrangengemaal 0,Ronde_3,51.914393,6.004059,Donkere waterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,50,Rijnstrangengemaal 50,Ronde_3,51.91431,6.00347,Azuurwaterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,50,Rijnstrangengemaal 50,Ronde_3,51.91431,6.00347,Blauwe breedscheenjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,50,Rijnstrangengemaal 50,Ronde_3,51.91431,6.00347,Watersnuffel,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,50,Rijnstrangengemaal 50,Ronde_3,51.91431,6.00347,Kleine Roodoofjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,50,Rijnstrangengemaal 50,Ronde_3,51.91431,6.00347,Grote Roodoogjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,50,Rijnstrangengemaal 50,Ronde_3,51.91431,6.00347,Lantaarntje,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,50,Rijnstrangengemaal 50,Ronde_3,51.91431,6.00347,Variabele waterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,50,Rijnstrangengemaal 50,Ronde_3,51.91431,6.00347,Maanwater juffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,50,Rijnstrangengemaal 50,Ronde_3,51.91431,6.00347,Speerwaterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,50,Rijnstrangengemaal 50,Ronde_3,51.91431,6.00347,Donkere waterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,100,Rijnstrangengemaal 100,Ronde_3,51.91451,6.00442,Azuurwaterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,100,Rijnstrangengemaal 100,Ronde_3,51.91451,6.00442,Blauwe breedscheenjuffer,1,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,100,Rijnstrangengemaal 100,Ronde_3,51.91451,6.00442,Watersnuffel,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,100,Rijnstrangengemaal 100,Ronde_3,51.91451,6.00442,Kleine Roodoofjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,100,Rijnstrangengemaal 100,Ronde_3,51.91451,6.00442,Grote Roodoogjuffer,2,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,100,Rijnstrangengemaal 100,Ronde_3,51.91451,6.00442,Lantaarntje,2,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,100,Rijnstrangengemaal 100,Ronde_3,51.91451,6.00442,Variabele waterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,100,Rijnstrangengemaal 100,Ronde_3,51.91451,6.00442,Maanwater juffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,100,Rijnstrangengemaal 100,Ronde_3,51.91451,6.00442,Speerwaterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,100,Rijnstrangengemaal 100,Ronde_3,51.91451,6.00442,Donkere waterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,150,Rijnstrangengemaal 150,Ronde_3,51.91467,6.00052,Azuurwaterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,150,Rijnstrangengemaal 150,Ronde_3,51.91467,6.00052,Blauwe breedscheenjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,150,Rijnstrangengemaal 150,Ronde_3,51.91467,6.00052,Watersnuffel,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,150,Rijnstrangengemaal 150,Ronde_3,51.91467,6.00052,Kleine Roodoofjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,150,Rijnstrangengemaal 150,Ronde_3,51.91467,6.00052,Grote Roodoogjuffer,2,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,150,Rijnstrangengemaal 150,Ronde_3,51.91467,6.00052,Lantaarntje,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,150,Rijnstrangengemaal 150,Ronde_3,51.91467,6.00052,Variabele waterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,150,Rijnstrangengemaal 150,Ronde_3,51.91467,6.00052,Maanwater juffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,150,Rijnstrangengemaal 150,Ronde_3,51.91467,6.00052,Speerwaterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,150,Rijnstrangengemaal 150,Ronde_3,51.91467,6.00052,Donkere waterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,200,Rijnstrangengemaal 200,Ronde_3,51.915024,6.006477,Azuurwaterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,200,Rijnstrangengemaal 200,Ronde_3,51.915024,6.006477,Blauwe breedscheenjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,200,Rijnstrangengemaal 200,Ronde_3,51.915024,6.006477,Watersnuffel,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,200,Rijnstrangengemaal 200,Ronde_3,51.915024,6.006477,Kleine Roodoofjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,200,Rijnstrangengemaal 200,Ronde_3,51.915024,6.006477,Grote Roodoogjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,200,Rijnstrangengemaal 200,Ronde_3,51.915024,6.006477,Lantaarntje,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,200,Rijnstrangengemaal 200,Ronde_3,51.915024,6.006477,Variabele waterjuffer,1,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,200,Rijnstrangengemaal 200,Ronde_3,51.915024,6.006477,Maanwater juffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,200,Rijnstrangengemaal 200,Ronde_3,51.915024,6.006477,Speerwaterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,200,Rijnstrangengemaal 200,Ronde_3,51.915024,6.006477,Donkere waterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,250,Rijnstrangengemaal 250,Ronde_3,51.91518,6.00685,Azuurwaterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,250,Rijnstrangengemaal 250,Ronde_3,51.91518,6.00685,Blauwe breedscheenjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,250,Rijnstrangengemaal 250,Ronde_3,51.91518,6.00685,Watersnuffel,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,250,Rijnstrangengemaal 250,Ronde_3,51.91518,6.00685,Kleine Roodoofjuffer,3,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,250,Rijnstrangengemaal 250,Ronde_3,51.91518,6.00685,Grote Roodoogjuffer,4,1,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,250,Rijnstrangengemaal 250,Ronde_3,51.91518,6.00685,Lantaarntje,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,250,Rijnstrangengemaal 250,Ronde_3,51.91518,6.00685,Variabele waterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,250,Rijnstrangengemaal 250,Ronde_3,51.91518,6.00685,Maanwater juffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,250,Rijnstrangengemaal 250,Ronde_3,51.91518,6.00685,Speerwaterjuffer,,,,23,3/8,0,W2
+Rijnstrangengemaal,7/9/21,250,Rijnstrangengemaal 250,Ronde_3,51.91518,6.00685,Donkere waterjuffer,,,,23,3/8,0,W2
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_3,51.89936,6.09373,Azuurwaterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_3,51.89936,6.09373,Blauwe breedscheenjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_3,51.89936,6.09373,Watersnuffel,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_3,51.89936,6.09373,Kleine Roodoofjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_3,51.89936,6.09373,Grote Roodoogjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_3,51.89936,6.09373,Lantaarntje,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_3,51.89936,6.09373,Variabele waterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_3,51.89936,6.09373,Maanwater juffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_3,51.89936,6.09373,Speerwaterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_3,51.89936,6.09373,Donkere waterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_3,51.89908,6.09409,Azuurwaterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_3,51.89908,6.09409,Blauwe breedscheenjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_3,51.89908,6.09409,Watersnuffel,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_3,51.89908,6.09409,Kleine Roodoofjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_3,51.89908,6.09409,Grote Roodoogjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_3,51.89908,6.09409,Lantaarntje,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_3,51.89908,6.09409,Variabele waterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_3,51.89908,6.09409,Maanwater juffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_3,51.89908,6.09409,Speerwaterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_3,51.89908,6.09409,Donkere waterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_3,51.89888,6.09456,Azuurwaterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_3,51.89888,6.09456,Blauwe breedscheenjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_3,51.89888,6.09456,Watersnuffel,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_3,51.89888,6.09456,Kleine Roodoofjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_3,51.89888,6.09456,Grote Roodoogjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_3,51.89888,6.09456,Lantaarntje,1,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_3,51.89888,6.09456,Variabele waterjuffer,2,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_3,51.89888,6.09456,Maanwater juffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_3,51.89888,6.09456,Speerwaterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_3,51.89888,6.09456,Donkere waterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_3,51.89852,6.09507,Azuurwaterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_3,51.89852,6.09507,Blauwe breedscheenjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_3,51.89852,6.09507,Watersnuffel,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_3,51.89852,6.09507,Kleine Roodoofjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_3,51.89852,6.09507,Grote Roodoogjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_3,51.89852,6.09507,Lantaarntje,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_3,51.89852,6.09507,Variabele waterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_3,51.89852,6.09507,Maanwater juffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_3,51.89852,6.09507,Speerwaterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_3,51.89852,6.09507,Donkere waterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_3,51.89829,6.09653,Azuurwaterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_3,51.89829,6.09653,Blauwe breedscheenjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_3,51.89829,6.09653,Watersnuffel,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_3,51.89829,6.09653,Kleine Roodoofjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_3,51.89829,6.09653,Grote Roodoogjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_3,51.89829,6.09653,Lantaarntje,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_3,51.89829,6.09653,Variabele waterjuffer,1,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_3,51.89829,6.09653,Maanwater juffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_3,51.89829,6.09653,Speerwaterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_3,51.89829,6.09653,Donkere waterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_3,51.89785,6.0959,Azuurwaterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_3,51.89785,6.0959,Blauwe breedscheenjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_3,51.89785,6.0959,Watersnuffel,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_3,51.89785,6.0959,Kleine Roodoofjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_3,51.89785,6.0959,Grote Roodoogjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_3,51.89785,6.0959,Lantaarntje,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_3,51.89785,6.0959,Variabele waterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_3,51.89785,6.0959,Maanwater juffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_3,51.89785,6.0959,Speerwaterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_3,51.89785,6.0959,Donkere waterjuffer,,,,22,3/8,geen,WZW3
+Rijnstrangengemaal,7/16/21,0,Rijnstrangengemaal 0,Ronde_4,51.914393,6.004059,Azuurwaterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,0,Rijnstrangengemaal 0,Ronde_4,51.914393,6.004059,Blauwe breedscheenjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,0,Rijnstrangengemaal 0,Ronde_4,51.914393,6.004059,Watersnuffel,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,0,Rijnstrangengemaal 0,Ronde_4,51.914393,6.004059,Kleine Roodoofjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,0,Rijnstrangengemaal 0,Ronde_4,51.914393,6.004059,Grote Roodoogjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,0,Rijnstrangengemaal 0,Ronde_4,51.914393,6.004059,Lantaarntje,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,0,Rijnstrangengemaal 0,Ronde_4,51.914393,6.004059,Variabele waterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,0,Rijnstrangengemaal 0,Ronde_4,51.914393,6.004059,Maanwater juffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,0,Rijnstrangengemaal 0,Ronde_4,51.914393,6.004059,Speerwaterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,0,Rijnstrangengemaal 0,Ronde_4,51.914393,6.004059,Donkere waterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,50,Rijnstrangengemaal 50,Ronde_4,51.91431,6.00347,Azuurwaterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,50,Rijnstrangengemaal 50,Ronde_4,51.91431,6.00347,Blauwe breedscheenjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,50,Rijnstrangengemaal 50,Ronde_4,51.91431,6.00347,Watersnuffel,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,50,Rijnstrangengemaal 50,Ronde_4,51.91431,6.00347,Kleine Roodoofjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,50,Rijnstrangengemaal 50,Ronde_4,51.91431,6.00347,Grote Roodoogjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,50,Rijnstrangengemaal 50,Ronde_4,51.91431,6.00347,Lantaarntje,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,50,Rijnstrangengemaal 50,Ronde_4,51.91431,6.00347,Variabele waterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,50,Rijnstrangengemaal 50,Ronde_4,51.91431,6.00347,Maanwater juffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,50,Rijnstrangengemaal 50,Ronde_4,51.91431,6.00347,Speerwaterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,50,Rijnstrangengemaal 50,Ronde_4,51.91431,6.00347,Donkere waterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,100,Rijnstrangengemaal 100,Ronde_4,51.91451,6.00442,Azuurwaterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,100,Rijnstrangengemaal 100,Ronde_4,51.91451,6.00442,Blauwe breedscheenjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,100,Rijnstrangengemaal 100,Ronde_4,51.91451,6.00442,Watersnuffel,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,100,Rijnstrangengemaal 100,Ronde_4,51.91451,6.00442,Kleine Roodoofjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,100,Rijnstrangengemaal 100,Ronde_4,51.91451,6.00442,Grote Roodoogjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,100,Rijnstrangengemaal 100,Ronde_4,51.91451,6.00442,Lantaarntje,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,100,Rijnstrangengemaal 100,Ronde_4,51.91451,6.00442,Variabele waterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,100,Rijnstrangengemaal 100,Ronde_4,51.91451,6.00442,Maanwater juffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,100,Rijnstrangengemaal 100,Ronde_4,51.91451,6.00442,Speerwaterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,100,Rijnstrangengemaal 100,Ronde_4,51.91451,6.00442,Donkere waterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,150,Rijnstrangengemaal 150,Ronde_4,51.91467,6.00052,Azuurwaterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,150,Rijnstrangengemaal 150,Ronde_4,51.91467,6.00052,Blauwe breedscheenjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,150,Rijnstrangengemaal 150,Ronde_4,51.91467,6.00052,Watersnuffel,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,150,Rijnstrangengemaal 150,Ronde_4,51.91467,6.00052,Kleine Roodoofjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,150,Rijnstrangengemaal 150,Ronde_4,51.91467,6.00052,Grote Roodoogjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,150,Rijnstrangengemaal 150,Ronde_4,51.91467,6.00052,Lantaarntje,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,150,Rijnstrangengemaal 150,Ronde_4,51.91467,6.00052,Variabele waterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,150,Rijnstrangengemaal 150,Ronde_4,51.91467,6.00052,Maanwater juffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,150,Rijnstrangengemaal 150,Ronde_4,51.91467,6.00052,Speerwaterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,150,Rijnstrangengemaal 150,Ronde_4,51.91467,6.00052,Donkere waterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,200,Rijnstrangengemaal 200,Ronde_4,51.915024,6.006477,Azuurwaterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,200,Rijnstrangengemaal 200,Ronde_4,51.915024,6.006477,Blauwe breedscheenjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,200,Rijnstrangengemaal 200,Ronde_4,51.915024,6.006477,Watersnuffel,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,200,Rijnstrangengemaal 200,Ronde_4,51.915024,6.006477,Kleine Roodoofjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,200,Rijnstrangengemaal 200,Ronde_4,51.915024,6.006477,Grote Roodoogjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,200,Rijnstrangengemaal 200,Ronde_4,51.915024,6.006477,Lantaarntje,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,200,Rijnstrangengemaal 200,Ronde_4,51.915024,6.006477,Variabele waterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,200,Rijnstrangengemaal 200,Ronde_4,51.915024,6.006477,Maanwater juffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,200,Rijnstrangengemaal 200,Ronde_4,51.915024,6.006477,Speerwaterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,200,Rijnstrangengemaal 200,Ronde_4,51.915024,6.006477,Donkere waterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,250,Rijnstrangengemaal 250,Ronde_4,51.91518,6.00685,Azuurwaterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,250,Rijnstrangengemaal 250,Ronde_4,51.91518,6.00685,Blauwe breedscheenjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,250,Rijnstrangengemaal 250,Ronde_4,51.91518,6.00685,Watersnuffel,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,250,Rijnstrangengemaal 250,Ronde_4,51.91518,6.00685,Kleine Roodoofjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,250,Rijnstrangengemaal 250,Ronde_4,51.91518,6.00685,Grote Roodoogjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,250,Rijnstrangengemaal 250,Ronde_4,51.91518,6.00685,Lantaarntje,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,250,Rijnstrangengemaal 250,Ronde_4,51.91518,6.00685,Variabele waterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,250,Rijnstrangengemaal 250,Ronde_4,51.91518,6.00685,Maanwater juffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,250,Rijnstrangengemaal 250,Ronde_4,51.91518,6.00685,Speerwaterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangengemaal,7/16/21,250,Rijnstrangengemaal 250,Ronde_4,51.91518,6.00685,Donkere waterjuffer,,,,17,1,geen,NNW 3
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_4,51.89936,6.09373,Azuurwaterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_4,51.89936,6.09373,Blauwe breedscheenjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_4,51.89936,6.09373,Watersnuffel,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_4,51.89936,6.09373,Kleine Roodoofjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_4,51.89936,6.09373,Grote Roodoogjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_4,51.89936,6.09373,Lantaarntje,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_4,51.89936,6.09373,Variabele waterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_4,51.89936,6.09373,Maanwater juffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_4,51.89936,6.09373,Speerwaterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,0,Rijnstrangenaerdt 0,Ronde_4,51.89936,6.09373,Donkere waterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_4,51.89908,6.09409,Azuurwaterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_4,51.89908,6.09409,Blauwe breedscheenjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_4,51.89908,6.09409,Watersnuffel,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_4,51.89908,6.09409,Kleine Roodoofjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_4,51.89908,6.09409,Grote Roodoogjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_4,51.89908,6.09409,Lantaarntje,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_4,51.89908,6.09409,Variabele waterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_4,51.89908,6.09409,Maanwater juffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_4,51.89908,6.09409,Speerwaterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,50,Rijnstrangenaerdt 50,Ronde_4,51.89908,6.09409,Donkere waterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_4,51.89888,6.09456,Azuurwaterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_4,51.89888,6.09456,Blauwe breedscheenjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_4,51.89888,6.09456,Watersnuffel,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_4,51.89888,6.09456,Kleine Roodoofjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_4,51.89888,6.09456,Grote Roodoogjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_4,51.89888,6.09456,Lantaarntje,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_4,51.89888,6.09456,Variabele waterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_4,51.89888,6.09456,Maanwater juffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_4,51.89888,6.09456,Speerwaterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,100,Rijnstrangenaerdt 100,Ronde_4,51.89888,6.09456,Donkere waterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_4,51.89852,6.09507,Azuurwaterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_4,51.89852,6.09507,Blauwe breedscheenjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_4,51.89852,6.09507,Watersnuffel,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_4,51.89852,6.09507,Kleine Roodoofjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_4,51.89852,6.09507,Grote Roodoogjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_4,51.89852,6.09507,Lantaarntje,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_4,51.89852,6.09507,Variabele waterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_4,51.89852,6.09507,Maanwater juffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_4,51.89852,6.09507,Speerwaterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,150,Rijnstrangenaerdt 150,Ronde_4,51.89852,6.09507,Donkere waterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_4,51.89829,6.09653,Azuurwaterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_4,51.89829,6.09653,Blauwe breedscheenjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_4,51.89829,6.09653,Watersnuffel,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_4,51.89829,6.09653,Kleine Roodoofjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_4,51.89829,6.09653,Grote Roodoogjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_4,51.89829,6.09653,Lantaarntje,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_4,51.89829,6.09653,Variabele waterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_4,51.89829,6.09653,Maanwater juffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_4,51.89829,6.09653,Speerwaterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,200,Rijnstrangenaerdt 200,Ronde_4,51.89829,6.09653,Donkere waterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_4,51.89785,6.0959,Azuurwaterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_4,51.89785,6.0959,Blauwe breedscheenjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_4,51.89785,6.0959,Watersnuffel,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_4,51.89785,6.0959,Kleine Roodoofjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_4,51.89785,6.0959,Grote Roodoogjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_4,51.89785,6.0959,Lantaarntje,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_4,51.89785,6.0959,Variabele waterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_4,51.89785,6.0959,Maanwater juffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_4,51.89785,6.0959,Speerwaterjuffer,,,,21,3/4,droog,N1
+Rijnstrangenaerdt,,250,Rijnstrangenaerdt 250,Ronde_4,51.89785,6.0959,Donkere waterjuffer,,,,21,3/4,droog,N1

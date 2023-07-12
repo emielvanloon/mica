@@ -1,0 +1,81 @@
+Locatie,Transect,Part,Type,Lengte,Punt,Long,Lat
+De Luysen,1,1,LW,50,start,5.66492,51.17837
+De Luysen,1,1,LW,50,stop,5.66576,51.17787
+De Luysen,1,2,L,50,start,5.66576,51.17787
+De Luysen,1,2,L,50,stop,5.66653,51.17724
+De Luysen,1,3,LW,50,start,5.66710,51.17716
+De Luysen,1,3,LW,50,stop,5.66813,51.17740
+De Luysen,1,4,L,50,start,5.66813,51.17740
+De Luysen,1,4,L,50,stop,5.66834,51.17802
+De Luysen,1,5,LW,50,start,5.66900,51.18055
+De Luysen,1,5,LW,50,stop,5.66912,51.18116
+De Luysen,1,6,L,50,start,5.66912,51.18116
+De Luysen,1,6,L,50,stop,5.66915,51.18154
+De Luysen,1,7,LW,50,start,5.66915,51.18154
+De Luysen,1,7,LW,50,stop,5.66839,51.18175
+De Luysen,1,8,L,50,start,5.66839,51.18175
+De Luysen,1,8,L,50,stop,5.66759,51.18197
+De Luysen,1,9,LW,50,start,5.66759,51.18197
+De Luysen,1,9,LW,50,stop,5.66673,51.18217
+De Luysen,1,10,L,50,start,5.66673,51.18217
+De Luysen,1,10,L,50,stop,5.66586,51.18239
+De Luysen,2,1,LW,50,start,5.66322,51.17990
+De Luysen,2,1,LW,50,stop,5.66229,51.18005
+De Luysen,2,2,L,50,start,5.66229,51.18005
+De Luysen,2,2,L,50,stop,5.66125,51.18016
+De Luysen,2,3,LW,50,start,5.66125,51.18016
+De Luysen,2,3,LW,50,stop,5.66059,51.18026
+De Luysen,2,4,L,50,start,5.66059,51.18026
+De Luysen,2,4,L,50,stop,5.66014,51.18083
+De Luysen,2,5,LW,50,start,5.66014,51.18083
+De Luysen,2,5,LW,50,stop,5.65999,51.18148
+De Luysen,2,6,L,50,start,5.65999,51.18148
+De Luysen,2,6,L,50,stop,5.65997,51.18200
+De Luysen,2,7,LW,50,start,5.65997,51.18200
+De Luysen,2,7,LW,50,stop,5.65978,51.18250
+De Luysen,2,8,L,50,start,5.65978,51.18250
+De Luysen,2,8,L,50,stop,5.65931,51.18296
+De Luysen,2,9,LW,50,start,5.65931,51.18296
+De Luysen,2,9,LW,50,stop,5.65883,51.18341
+De Luysen,2,10,L,50,start,5.65883,51.18341
+De Luysen,2,10,L,50,stop,5.65875,51.18387
+Sint-Laureins,1,1,L,50,start,3.53901,51.25358
+Sint-Laureins,1,1,L,50,stop,3.53892,51.25401
+Sint-Laureins,1,2,LW,50,start,3.53892,51.25401
+Sint-Laureins,1,2,LW,50,stop,3.53916,51.25443
+Sint-Laureins,1,3,L,50,start,3.53916,51.25443
+Sint-Laureins,1,3,L,50,stop,3.53936,51.25486
+Sint-Laureins,1,4,LW,50,start,3.53936,51.25486
+Sint-Laureins,1,4,LW,50,stop,3.53953,51.25530
+Sint-Laureins,1,5,L,50,start,3.53953,51.25530
+Sint-Laureins,1,5,L,50,stop,3.53972,51.25573
+Sint-Laureins,1,6,LW,50,start,3.53972,51.25573
+Sint-Laureins,1,6,LW,50,stop,3.54002,51.25615
+Sint-Laureins,1,7,L,50,start,3.54002,51.25615
+Sint-Laureins,1,7,L,50,stop,3.54032,51.25655
+Sint-Laureins,1,8,L,50,start,3.54032,51.25655
+Sint-Laureins,1,8,L,50,stop,3.54060,51.25697
+Sint-Laureins,1,9,LW,50,start,3.54060,51.25697
+Sint-Laureins,1,9,LW,50,stop,3.54087,51.25738
+Sint-Laureins,1,10,LW,50,start,3.54087,51.25738
+Sint-Laureins,1,10,LW,50,stop,3.54113,51.25781
+Sint-Laureins,2,1,LW,50,start,3.53293,51.26838
+Sint-Laureins,2,1,LW,50,stop,3.53222,51.26828
+Sint-Laureins,2,2,LW,50,start,3.53222,51.26828
+Sint-Laureins,2,2,LW,50,stop,3.53156,51.26810
+Sint-Laureins,2,3,L,50,start,3.53156,51.26810
+Sint-Laureins,2,3,L,50,stop,3.53090,51.26791
+Sint-Laureins,2,4,L,50,start,3.53090,51.26791
+Sint-Laureins,2,4,L,50,stop,3.53023,51.26777
+Sint-Laureins,2,5,LW,50,start,3.53023,51.26777
+Sint-Laureins,2,5,LW,50,stop,3.53001,51.26735
+Sint-Laureins,2,6,L,50,start,3.53001,51.26735
+Sint-Laureins,2,6,L,50,stop,3.53026,51.26694
+Sint-Laureins,2,7,L,50,start,3.53026,51.26694
+Sint-Laureins,2,7,L,50,stop,3.53076,51.26662
+Sint-Laureins,2,8,LW,50,start,3.53076,51.26662
+Sint-Laureins,2,8,LW,50,stop,3.53129,51.26632
+Sint-Laureins,2,9,LW,50,start,3.53129,51.26632
+Sint-Laureins,2,9,LW,50,stop,3.53179,51.26600
+Sint-Laureins,2,10,L,50,start,3.53179,51.26600
+Sint-Laureins,2,10,L,50,stop,3.53217,51.26562
