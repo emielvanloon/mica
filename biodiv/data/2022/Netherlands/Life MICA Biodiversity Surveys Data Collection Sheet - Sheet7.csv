@@ -1,0 +1,207 @@
+Scientific Name,Location,Rank,Category
+Orthetrum cancellatum,Lake Dümmer,1,Dragonfly
+Anax imperator,Lake Dümmer,2,Dragonfly
+Sympetrum,Lake Dümmer,3,Dragonfly
+Sympetrum vulgatum,Lake Dümmer,4,Dragonfly
+Libellula depressa,Lake Dümmer,5,Dragonfly
+Sympetrum,Aschau Teiche,1,Dragonfly
+Orthetrum cancellatum,Aschau Teiche,2,Dragonfly
+Sympetrum striolatum,Aschau Teiche,3,Dragonfly
+Libellula quadrimaculata,Aschau Teiche,4,Dragonfly
+Brachytron pratense,Aschau Teiche,5,Dragonfly
+Sympetrum sanguineum,Aschau Teiche,6,Dragonfly
+Orthetrum cancellatum,Sint-Laureins,1,Dragonfly
+Anax parthenope,Sint-Laureins,2,Dragonfly
+Anax imperator,Sint-Laureins,3,Dragonfly
+Libellula quadrimaculata,Sint-Laureins,4,Dragonfly
+Sympetrum sanguineum,Sint-Laureins,5,Dragonfly
+Aeshna isoceles,Sint-Laureins,6,Dragonfly
+Brachytron pratense,Gelderse Poort,1,Dragonfly
+Brachytron pratense,Kreis Kleve,1,Dragonfly
+Ischnura elegans,Lake Dümmer,1,Damselfly
+Calopteryx splendens,Lake Dümmer,2,Damselfly
+Coenagrion puella,Lake Dümmer,3,Damselfly
+Platycnemis pennipes,Lake Dümmer,4,Damselfly
+Lestes viridis,Lake Dümmer,5,Damselfly
+Erythromma viridulum,Lake Dümmer,6,Damselfly
+Enallagma cyathigerum,Lake Dümmer,7,Damselfly
+Pyrrhosomma nymphula,Lake Dümmer,8,Damselfly
+Lestes sponsa,Aschau Teiche,1,Damselfly
+Ischnura elegans,Aschau Teiche,2,Damselfly
+Coenagrion puella,Aschau Teiche,3,Damselfly
+Lestes dryas,Aschau Teiche,4,Damselfly
+Coenagrion pulchellum,Aschau Teiche,5,Damselfly
+Erythromma viridulum,Aschau Teiche,6,Damselfly
+Ischnura elegans,Sint-Laureins,1,Damselfly
+Coenagrion pulchellum,Sint-Laureins,2,Damselfly
+Coenagrion armatum,Gelderse Poort,1,Damselfly
+Coenagrion lunulatum,Gelderse Poort,2,Damselfly
+Erythromma viridulum,Gelderse Poort,3,Damselfly
+Ischnura elegans,Gelderse Poort,4,Damselfly
+Platycnemis pennipes,Gelderse Poort,5,Damselfly
+Coenagrion hastulatum,Gelderse Poort,6,Damselfly
+Coenagrion puella,Gelderse Poort,7,Damselfly
+Coenagrion pulchellum,Gelderse Poort,8,Damselfly
+Enallagma cyathigerum,Gelderse Poort,9,Damselfly
+Erythromma najas,Gelderse Poort,10,Damselfly
+Coenagrion armatum,Kreis Kleve,1,Damselfly
+Coenagrion lunulatum,Kreis Kleve,2,Damselfly
+Erythromma viridulum,Kreis Kleve,3,Damselfly
+Ischnura elegans,Kreis Kleve,4,Damselfly
+Platycnemis pennipes,Kreis Kleve,5,Damselfly
+Coenagrion hastulatum,Kreis Kleve,6,Damselfly
+Coenagrion puella,Kreis Kleve,7,Damselfly
+Coenagrion pulchellum,Kreis Kleve,8,Damselfly
+Enallagma cyathigerum,Kreis Kleve,9,Damselfly
+Erythromma najas,Kreis Kleve,10,Damselfly
+Vanellus vanellus,Lake Dümmer,1,Bird
+Alauda arvensis,Lake Dümmer,2,Bird
+Motacilla flava,Lake Dümmer,3,Bird
+Numenius arquata,Lake Dümmer,4,Bird
+Schoeniclus schoeniclus,Lake Dümmer,5,Bird
+Anser anser,Lake Dümmer,6,Bird
+Gallinago gallinago,Lake Dümmer,7,Bird
+Spatula clypeataI,Lake Dümmer,8,Bird
+Cuculus canorus,Lake Dümmer,9,Bird
+Fulica atra,Lake Dümmer,10,Bird
+Anas platyrhynchos,Lake Dümmer,11,Bird
+Acrocephalus schoenobaenus,Lake Dümmer,12,Bird
+Limosa limosa,Lake Dümmer,13,Bird
+Anthus pratensis,Lake Dümmer,15,Bird
+Sylvia communis,Lake Dümmer,16,Bird
+Locustella naevia,Lake Dümmer,17,Bird
+Porzana porzana,Lake Dümmer,18,Bird
+Tringa totanus,Lake Dümmer,19,Bird
+Anas querquedula,Lake Dümmer,20,Bird
+Acrocephalus scirpaceus,Lake Dümmer,21,Bird
+Coturnix coturnix,Lake Dümmer,22,Bird
+Alopochen aegyptiaca,Lake Dümmer,23,Bird
+Luscinia svecica,Lake Dümmer,24,Bird
+Tadorna tadorna,Lake Dümmer,25,Bird
+Alcedo atthis,Lake Dümmer,26,Bird
+Aythya fuligula,Lake Dümmer,27,Bird
+Haematopus ostralegus,Lake Dümmer,28,Bird
+Phalacrocorax carbo,Lake Dümmer,29,Bird
+Tachybaptus ruficollis,Lake Dümmer,30,Bird
+Anser anser,Aschau Teiche,1,Bird
+Fulica atra,Aschau Teiche,2,Bird
+Cygnus olor,Aschau Teiche,3,Bird
+Acrocephalus scirpaceus,Aschau Teiche,4,Bird
+Anas platyrhynchos,Aschau Teiche,5,Bird
+Aythya fuligula,Aschau Teiche,6,Bird
+Ardea cinerea,Aschau Teiche,8,Bird
+Ciconia nigra,Aschau Teiche,9,Bird
+Pandion haliaetus,Aschau Teiche,10,Bird
+Acrocephalus arundinaceus,Aschau Teiche,11,Bird
+Branta canadensis,Aschau Teiche,12,Bird
+Acrocephalus,Aschau Teiche,13,Bird
+Circus aeruginosus,Aschau Teiche,14,Bird
+Gallinago gallinago,Aschau Teiche,15,Bird
+Grus grus,Aschau Teiche,16,Bird
+Locustella luscinioides,Aschau Teiche,17,Bird
+Milvus milvus,Aschau Teiche,18,Bird
+Phalacrocorax carbo,Aschau Teiche,19,Bird
+Acrocephalus schoenobaenus,Sint-Laureins,1,Bird
+Acrocephalus scirpaceus,Sint-Laureins,2,Bird
+Aythya fuligula,Sint-Laureins,4,Bird
+Actitis hypoleucos,Sint-Laureins,5,Bird
+Luscinia svecica,Sint-Laureins,6,Bird
+Acrocephalus palustris,Sint-Laureins,7,Bird
+Alcedo atthis,Sint-Laureins,8,Bird
+Bruine kiekendief,Sint-Laureins,9,Bird
+Emberiza schoeniclus,Sint-Laureins,10,Bird
+Spatula clypeata,Sint-Laureins,11,Bird
+Acrocephalus scirpaceus,Sint-Maartensheide-De Luysen,1,Bird
+Aythya ferina,Sint-Maartensheide-De Luysen,2,Bird
+Emberiza schoeniclus,Sint-Maartensheide-De Luysen,3,Bird
+Aythya fuligula,Sint-Maartensheide-De Luysen,4,Bird
+Acrocephalus schoenobaenus,Sint-Maartensheide-De Luysen,5,Bird
+Botaurus stellaris,Sint-Maartensheide-De Luysen,6,Bird
+Luscinia svecica,Sint-Maartensheide-De Luysen,7,Bird
+Locustella naevia,Sint-Maartensheide-De Luysen,8,Bird
+Tachybaptus ruficollis,Sint-Maartensheide-De Luysen,9,Bird
+Acrocephalus arundinaceus,Sint-Maartensheide-De Luysen,10,Bird
+Spatula clypeata,Sint-Maartensheide-De Luysen,11,Bird
+Rallus aquaticus,Sint-Maartensheide-De Luysen,13,Bird
+Tringa ochropus,Sint-Maartensheide-De Luysen,14,Bird
+Anas crecca,Sint-Maartensheide-De Luysen,15,Bird
+Gallinago gallinago,Sint-Maartensheide-De Luysen,16,Bird
+Locustella luscinioides,Sint-Maartensheide-De Luysen,17,Bird
+Acrocephalus arundinaceus,Gelderse Poort,1,Bird
+Aythya ferina,Gelderse Poort,2,Bird
+Aythya fuligula,Gelderse Poort,3,Bird
+Chlidonias niger,Gelderse Poort,4,Bird
+Ixobrychus minutus,Gelderse Poort,5,Bird
+Luscinia svecica,Gelderse Poort,6,Bird
+Remiz pendulinus,Gelderse Poort,7,Bird
+Spatula clypeata,Gelderse Poort,8,Bird
+Tachybaptus ruficollis,Gelderse Poort,9,Bird
+Botaurus stellaris,Gelderse Poort,10,Bird
+Acrocephalus arundinaceus,Kreis Kleve,1,Bird
+Aythya ferina,Kreis Kleve,2,Bird
+Aythya fuligula,Kreis Kleve,3,Bird
+Chlidonias niger,Kreis Kleve,4,Bird
+Ixobrychus minutus,Kreis Kleve,5,Bird
+Luscinia svecica,Kreis Kleve,6,Bird
+Remiz pendulinus,Kreis Kleve,7,Bird
+Spatula clypeata,Kreis Kleve,8,Bird
+Tachybaptus ruficollis,Kreis Kleve,9,Bird
+Botaurus stellaris,Kreis Kleve,10,Bird
+Typha latifolia,Lake Dümmer,1,Plant
+Juncus effusus,Lake Dümmer,2,Plant
+Lycopus,Lake Dümmer,3,Plant
+Mentha aquatica,Lake Dümmer,4,Plant
+Phragmites australis,Lake Dümmer,5,Plant
+Urtica,Lake Dümmer,6,Plant
+Calamagrostis epigejos,Lake Dümmer,7,Plant
+Phalaris arundinacea,Lake Dümmer,8,Plant
+Glyceria maxima,Lake Dümmer,9,Plant
+Agrostis stolonifera,Lake Dümmer,10,Plant
+Persicaria amphibia,Lake Dümmer,11,Plant
+Typha latifolia,Aschau Teiche,1,Plant
+Glyceria maxima,Aschau Teiche,2,Plant
+Calamagrostis epigejos,Aschau Teiche,3,Plant
+Phalaris arundinacea,Aschau Teiche,4,Plant
+Phragmites australis,Aschau Teiche,5,Plant
+Agrostis stolonifera,Aschau Teiche,6,Plant
+Carex,Aschau Teiche,7,Plant
+Juncus effusus,Aschau Teiche,8,Plant
+Persicaria amphibia,Aschau Teiche,9,Plant
+Lemna minor,Vechtegebiet,1,Plant
+Lycopus europaeus,Vechtegebiet,2,Plant
+Calystegia sepium,Vechtegebiet,3,Plant
+Nuphar lutea,Vechtegebiet,4,Plant
+Rubus fructicosus agg.,Vechtegebiet,5,Plant
+Urtica dioica,Vechtegebiet,6,Plant
+Bidens frondosa,Vechtegebiet,7,Plant
+Carex pseudocyperus,Vechtegebiet,8,Plant
+Glyceria maxima,Vechtegebiet,9,Plant
+Lysmachia vulgaris,Vechtegebiet,10,Plant
+Poa trivialis,Vechtegebiet,11,Plant
+Rorippa amphibia,Vechtegebiet,12,Plant
+Scutellaria galericulata,Vechtegebiet,13,Plant
+Solanum dulcamara,Vechtegebiet,14,Plant
+Stachys palustris,Vechtegebiet,15,Plant
+Alnus glutinosa,Vechtegebiet,16,Plant
+Carex Pseudocyperus,Vechtegebiet,17,Plant
+Dryopteris filix-mas,Vechtegebiet,18,Plant
+Eplilobium angustifolium,Vechtegebiet,19,Plant
+Fallopia convolvulus,Vechtegebiet,20,Plant
+Holcus lanatus,Vechtegebiet,21,Plant
+Humulus lupulus,Vechtegebiet,22,Plant
+Iris pseudacorus,Vechtegebiet,23,Plant
+Mentha arvensis,Vechtegebiet,24,Plant
+Myosotis palustris,Vechtegebiet,25,Plant
+Phragmites australis,Vechtegebiet,26,Plant
+Scirpus sylvaticus,Vechtegebiet,27,Plant
+Silene dioica,Vechtegebiet,28,Plant
+Phalaris arundinacea,Gelderse Poort,1,Plant
+Phragmites australis,Gelderse Poort,2,Plant
+Waterlelie SP,Gelderse Poort,3,Plant
+Typha latifolia,Gelderse Poort,4,Plant
+Schoenoplectus tabernaemontani,Gelderse Poort,5,Plant
+Phalaris arundinacea,Kreis Kleve,1,Plant
+Phragmites australis,Kreis Kleve,2,Plant
+Waterlelie SP,Kreis Kleve,3,Plant
+Typha latifolia,Kreis Kleve,4,Plant
+Schoenoplectus tabernaemontani,Kreis Kleve,5,Plant

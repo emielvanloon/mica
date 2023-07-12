@@ -1,0 +1,897 @@
+<table style="border-collapse:collapse; border:none;">
+<tr>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; text-align:left; ">Project.Area</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Species.Group</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Survey.Date</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Species.Richness</th>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-04-28</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-05-16</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-05-08</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">11</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-05-09</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-05-28</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">13</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-05-29</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">14</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-09</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">11</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">15</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-16</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">14</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-17</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-25</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">17</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-04-28</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">15</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-05-16</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">16</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-02</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">21</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-27</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">11</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-07-05</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">9</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-05-29</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-23</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">8</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-07-28</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">10</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-08-21</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">7</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-05-07</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">8</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-05-18</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-05-19</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-05-22</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-12</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">8</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-22</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">8</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-07-22</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">7</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-08-09</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">8</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-08-12</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">10</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Plants</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2020-09-23</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">9</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Plants</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-08-18</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">9</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Plants</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-09-12</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-03-17</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-03-28</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-04-16</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-05-14</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-03-09</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-03-22</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-04-13</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-04-28</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-05-09</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-05-26</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-04</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-15</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-07-09</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-09</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">8</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-15</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">10</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-23</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-30</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">7</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-07-08</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-07-11</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">7</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Plants</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2020-04-22</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Plants</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2020-04-23</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Plants</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2020-04-24</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Plants</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2020-05-27</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Plants</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2020-05-28</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Plants</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2020-05-29</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Plants</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-08-29</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-04-20</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">7</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-05-19</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-05-31</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">9</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-17</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">10</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-25</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">9</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-03-24</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">10</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-04-07</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">10</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-04-28</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">10</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-05-18</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-22</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">7</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-17</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-25</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-07-07</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-07-15</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-05-07</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">8</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-05-18</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-05-19</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-05-22</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-12</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">8</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-22</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">8</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-07-22</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">7</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-08-09</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">8</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-08-12</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">10</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Plants</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2020-08-27</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">7</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Plants</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-07-15</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">7</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Plants</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-08-12</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">3</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-04-05</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">3</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-04-16</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">3</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-08</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">3</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-04-05</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">3</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-05-05</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">3</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-08-09</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">3</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-08</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">3</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-08</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">3</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-08-09</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">3</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Plants</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2020-09-06</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">28</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">3</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Plants</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-09-14</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">32</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-05-05</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-05-10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-05-12</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-05-14</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">8</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-05-17</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-04-12</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">7</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-04-28</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">9</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-03</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-07-01</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">7</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-02</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">16</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-04</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-16</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">17</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-24</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">17</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-07-02</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">7</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-01</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">18</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-03</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">7</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-13</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">16</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-07-01</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-07-04</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">15</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Plants</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-09-21</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">44</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Plants</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-09-24</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">27</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-04-26</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">11</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-04-30</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">10</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-05-03</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">15</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-05-06</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">9</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-04-12</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-05-03</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">13</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-01</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-13</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-07-04</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-02</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">17</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-04</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-16</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">18</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-06-24</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">17</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-07-02</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">7</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-01</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">18</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-03</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">7</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">6</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-13</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">16</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-07-01</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Libellen</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-07-04</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">15</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Plants</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-09-21</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">44</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Plants</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2021-09-24</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">27</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-04-28</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; "></td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-05-16</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-04-28</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">20</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-05-16</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">17</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-02</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">16</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2022-06-27</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">12</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; border-bottom: double; ">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">Birds</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">2022-07-05</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">10</td>
+</tr>
+</table>
+

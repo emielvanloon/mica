@@ -1,0 +1,145 @@
+Observer,Date,ID,Location,Transect,Stop,Time,Species,Count,Behavioral code,Oviposition,Mating Position,Notes
+Jeroen Gruijters,11-07-2022,"51,914393, 6,004059
+",Gemaal ,1,1,11:00,Platycnemis pennipes,1,0,0,0,
+Jeroen Gruijters,11-07-2022,"51,914393, 6,004059
+",Gemaal ,1,1,11:00,Ischnura elegans,3,0,0,0,
+Jeroen Gruijters,11-07-2022,"51,91431, 6,00347
+",Gemaal ,1,2,11:05,Ischnura elegans,1,0,0,0,
+Jeroen Gruijters,11-07-2022,"51,91431, 6,00347
+",Gemaal ,1,2,11:05,Coenagrion puella,1,0,0,0,
+Jeroen Gruijters,11-07-2022,"51,91451, 6,00442
+",Gemaal ,1,3,11:10,Ischnura elegans,5,0,0,0,
+Jeroen Gruijters,11-07-2022,"51,91467, 6,00052
+",Gemaal ,1,4,11:15,Platycnemis pennipes,1,0,0,0,
+Jeroen Gruijters,11-07-2022,"51,915024, 6,006477
+",Gemaal ,1,5,11:20,Ischnura elegans,1,0,0,0,
+Jeroen Gruijters,11-07-2022,"51,915024, 6,006477
+",Gemaal ,1,5,11:20,Platycnemis pennipes,1,0,0,0,
+Harmen Verboom,15-06-2022,"51,914393, 6,004059
+",Gemaal ,1,1,12:30,Ischnura elegans,5,0,0,3,
+Harmen Verboom,15-06-2022,"51,914393, 6,004059
+",Gemaal ,1,1,12:30,Coenagrion pulchellum,1,0,0,0,
+Harmen Verboom,15-06-2022,"51,91431, 6,00347
+",Gemaal ,1,2,12:35,Coenagrion puella,7,0,0,0,
+Harmen Verboom,15-06-2022,"51,91431, 6,00347
+",Gemaal ,1,2,12:35,Ischnura elegans,1,0,0,1,
+Harmen Verboom,15-06-2022,"51,91451, 6,00442
+",Gemaal ,1,3,12:40,Coenagrion puella,10,0,0,0,
+Harmen Verboom,15-06-2022,"51,91451, 6,00442
+",Gemaal ,1,3,12:40,Ischnura elegans,2,0,0,1,
+Harmen Verboom,15-06-2022,"51,91451, 6,00442
+",Gemaal ,1,3,12:40,Platycnemis pennipes,1,0,0,1,
+Harmen Verboom,15-06-2022,"51,91451, 6,00442
+",Gemaal ,1,3,12:40,Erythromma viridulum,1,0,0,1,
+Harmen Verboom,15-06-2022,"51,91467, 6,00052
+",Gemaal ,1,4,12:45,Ischnura elegans,0,0,0,3,
+Harmen Verboom,15-06-2022,"51,91467, 6,00052
+",Gemaal ,1,4,12:45,Coenagrion puella,6,0,0,0,
+Harmen Verboom,15-06-2022,"51,91467, 6,00052
+",Gemaal ,1,4,12:45,Ischnura elegans,2,0,0,0,
+Harmen Verboom,15-06-2022,"51,91467, 6,00052
+",Gemaal ,1,4,12:45,Platycnemis pennipes,3,0,0,0,
+Harmen Verboom,15-06-2022,"51,915024, 6,006477
+",Gemaal ,1,5,12:50,Coenagrion pulchellum,1,0,0,0,
+Harmen Verboom,15-06-2022,"51,915024, 6,006477
+",Gemaal ,1,5,12:50,Coenagrion puella,4,0,0,0,
+Harmen Verboom,15-06-2022,"51,915024, 6,006477
+",Gemaal ,1,5,12:50,Erythromma viridulum,2,0,0,0,
+Harmen Verboom,15-06-2022,"51,915024, 6,006477
+",Gemaal ,1,5,12:50,Platycnemis pennipes,3,0,0,0,
+Harmen Verboom,15-06-2022,"51,915024, 6,006477
+",Gemaal ,1,5,12:50,Ischnura elegans,1,0,0,1,
+Harmen Verboom,08-07-2022,"51,89936, 6,09373
+",Aerdt,1,1,13:00,Ischnura elegans,1,0,0,0,
+Jeroen Gruijters,15-06-2022,"51,89936, 6,09373
+",Aerdt,1,1,11:30,Coenagrion pulchellum,5,0,0,0,
+Jeroen Gruijters,15-06-2022,"51,89936, 6,09373
+",Aerdt,1,1,11:30,Ischnura elegans,1,0,0,0,
+Jeroen Gruijters,15-06-2022,"51,89908, 6,09409
+",Aerdt,1,2,11:35,Coenagrion pulchellum,6,0,0,0,
+Jeroen Gruijters,15-06-2022,"51,89908, 6,09409
+",Aerdt,1,2,11:35,,2,0,0,0,
+Jeroen Gruijters,15-06-2022,"51,89888, 6,09456
+",Aerdt,1,3,11:45,Coenagrion pulchellum,3,0,0,0,
+Jeroen Gruijters,15-06-2022,"51,89852, 6,09507
+",Aerdt,1,4,11:55,Coenagrion pulchellum,2,0,0,0,
+Jeroen Gruijters,15-06-2022,"51,89852, 6,09507
+",Aerdt,1,4,11:55,Coenagrion puella,1,0,0,0,
+Jeroen Gruijters,15-06-2022,"51,89829, 6,09653
+",Aerdt,1,5,12:00,Coenagrion pulchellum,1,0,0,0,
+Jeroen Gruijters,15-06-2022,"51,89829, 6,09653
+",Aerdt,1,5,12:00,Coenagrion puella,1,0,0,0,
+Jeroen Gruijters,11/07/2022,"51,89936, 6,09373
+",Aerdt,1,1,11:00,Coenagrion puella,2,0,0,0,
+Harmen Verboom,23-06-2022,"51,89936, 6,09373
+",Aerdt,1,1,12:00,Ischnura elegans,0,0,0,1,
+Jeroen Gruijters,11/07/2022,"51,89936, 6,09373
+",Aerdt,1,1,11:00,Coenagrion pulchellum,1,0,0,0,
+Harmen Verboom,23-06-2022,"51,89936, 6,09373
+",Aerdt,1,1,12:00,Ischnura elegans,0,0,0,1,
+Jeroen Gruijters,11/07/2022,"51,89908, 6,09409
+",Aerdt,1,2,11:05,Ischnura elegans,2,0,0,0,
+Jeroen Gruijters,11/07/2022,"51,89908, 6,09409
+",Aerdt,1,2,11:05,Coenagrion pulchellum,2,0,0,0,
+Jeroen Gruijters,11/07/2022,"51,89888, 6,09456
+",Aerdt,1,3,11:10,Platycnemis pennipes,4,0,0,0,
+Jeroen Gruijters,09-06-2022,"51,914393, 6,004059
+",Gemaal ,1,1,12:00,Ischnura elegans,2,0,0,1,
+Jeroen Gruijters,11/07/2022,"51,89888, 6,09456
+",Aerdt,1,3,11:10,Coenagrion pulchellum,2,0,0,0,
+Jeroen Gruijters,09-06-2022,"51,914393, 6,004059
+",Gemaal ,1,1,12:00,Coenagrion pulchellum,1,0,0,1,
+Jeroen Gruijters,11/07/2022,"51,89852, 6,09507
+",Aerdt,1,4,11:15,Coenagrion puella,2,0,0,0,
+Jeroen Gruijters,11/07/2022,"51,89852, 6,09507
+",Aerdt,1,4,11:15,Coenagrion pulchellum,2,0,0,0,
+Jeroen Gruijters,11/07/2022,"51,89852, 6,09507
+",Aerdt,1,4,11:15,Platycnemis pennipes,1,0,0,0,
+Jeroen Gruijters,11/07/2022,"51,89829, 6,09653
+",Aerdt,1,5,11:20,Ischnura elegans,2,0,0,0,
+Jeroen Gruijters,30-06-2022,"51,914393, 6,004059
+",Gemaal ,1,1,12:00,Ischnura elegans,2,0,0,1,
+Jeroen Gruijters,30-06-2022,"51,914393, 6,004059
+",Gemaal ,1,1,12:00,Coenagrion puella,4,0,0,0,
+Jeroen Gruijters,30-06-2022,"51,91431, 6,00347
+",Gemaal ,1,2,12:10,Platycnemis pennipes,3,0,0,0,
+Jeroen Gruijters,30-06-2022,"51,91431, 6,00347
+",Gemaal ,1,2,12:10,Coenagrion puella,2,0,0,0,
+Jeroen Gruijters,30-06-2022,"51,91431, 6,00347
+",Gemaal ,1,2,12:10,Ischnura elegans,4,0,0,1,
+Jeroen Gruijters,09-06-2022,"51,91431, 6,00347
+",Gemaal ,1,2,13:00,Coenagrion pulchellum,0,0,0,1,
+Jeroen Gruijters,09-06-2022,"51,91431, 6,00347
+",Gemaal ,1,2,13:00,Ischnura elegans,2,0,0,2,
+Jeroen Gruijters,09-06-2022,"51,91431, 6,00347
+",Gemaal ,1,2,13:00,Coenagrion puella,6,0,0,2,
+Jeroen Gruijters,09-06-2022,"51,91451, 6,00442
+",Gemaal ,1,3,13:10,Coenagrion puella,8,0,0,0,
+Jeroen Gruijters,09-06-2022,"51,91451, 6,00442
+",Gemaal ,1,3,13:10,Ischnura elegans,5,0,0,0,
+Jeroen Gruijters,09-06-2022,"51,91451, 6,00442
+",Gemaal ,1,3,13:10,Platycnemis pennipes,3,0,0,1,
+Jeroen Gruijters,09-06-2022,"51,91451, 6,00442
+",Gemaal ,1,3,13:10,Coenagrion puella,3,0,0,0,
+Jeroen Gruijters,09-06-2022,"51,91451, 6,00442
+",Gemaal ,1,3,13:10,Ischnura elegans,1,0,0,1,
+Jeroen Gruijters,09-06-2022,"51,91451, 6,00442
+",Gemaal ,1,3,13:10,Platycnemis pennipes,0,0,0,2,
+Jeroen Gruijters,09-06-2022,"51,91451, 6,00442
+",Gemaal ,1,3,13:10,Ischnura elegans,3,0,0,4,
+Jeroen Gruijters,30-06-2022,"51,91451, 6,00442
+",Gemaal ,1,3,12:20,Ischnura elegans,1,0,0,1,
+Jeroen Gruijters,30-06-2022,"51,91451, 6,00442
+",Gemaal ,1,3,12:20,Platycnemis pennipes,3,0,0,0,
+Jeroen Gruijters,30-06-2022,"51,91451, 6,00442
+",Gemaal ,1,3,12:20,Coenagrion puella,2,0,0,0,
+Jeroen Gruijters,30-06-2022,"51,91451, 6,00442
+",Gemaal ,1,3,12:20,Erythromma najas,2,0,0,0,
+Jeroen Gruijters,30-06-2022,"51,91467, 6,00052
+",Gemaal ,1,4,12:30,Ischnura elegans,2,0,0,0,
+Jeroen Gruijters,30-06-2022,"51,91467, 6,00052
+",Gemaal ,1,4,12:30,Platycnemis pennipes,0,0,0,1,
+Jeroen Gruijters,30-06-2022,"51,915024, 6,006477
+",Gemaal ,1,5,12:35,Ischnura elegans,1,0,0,0,
+Jeroen Gruijters,30-06-2022,"51,915024, 6,006477
+",Gemaal ,1,5,12:35,erythromma najas,3,0,0,0,

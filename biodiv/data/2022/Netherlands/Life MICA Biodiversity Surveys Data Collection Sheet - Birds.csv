@@ -1,0 +1,70 @@
+Observer,Date,ID,Location,Transect,Stop,Time,Species,Count,Behavioral code,Notes
+Emma Cartuyvels,5/5/2022,bbe677b3,"51.000631, 4.982226",,,10:35:44,"Alauda arvensis , Alopochen aegyptiaca",3,,
+Emma Cartuyvels,5/5/2022,268a0e32,"51.000538, 4.982135",,,10:36:11,"Acrocephalus schoenobaenus , Alcedo atthis",1,,
+Claudia Maistrelli - Lilja Fromme,3/24/2022,acae47f7,"52.756900, 10.271350",,0,6:20:00,Cygnus olor,1,Code 1: Fully grown individual in possible breeding biotope,Behav: feeding
+Claudia Maistrelli - Lilja Fromme,3/24/2022,57ea8cdb,"52.756550, 10.269983",,1,6:20:00,"Erithacus rubecula , Anser anser , Grus grus",5,"Code 2: Singing or belching individual in possible breeding biotope , Code 3: Couple in suitable breeding biotope",2 Anser a. + 2 Grus g. flying
+Claudia Maistrelli - Lilja Fromme,3/24/2022,44920462,"52.757574, 10.269667",1,2,6:20:00,Anser anser,10,Code 3: Couple in suitable breeding biotope,5 couples
+Claudia Maistrelli - Lilja Fromme,3/24/2022,8d54ca3e,"52.758250, 10.269733",1,3,6:20:00,Anser anser,4,Code 3: Couple in suitable breeding biotope,
+Claudia Maistrelli - Lilja Fromme,3/24/2022,153a3254,"52.758917, 10.269917",1,4,6:20:00,Cygnus olor,2,Code 15: Nest with eggs,
+Claudia Maistrelli - Lilja Fromme,3/24/2022,f595b0a8,"52.759767, 10.270800",1,5,6:20:00,"Ardea alba , Motacilla citreola , Anas platyrhynchos , Phalacrocorax carbo",5,Code 1: Fully grown individual in possible breeding biotope,"1 Ardea a., 1 Phalacrocorax c., 2 Anas p., 1 Motacilla c."
+Claudia Maistrelli - Lilja Fromme,3/24/2022,5f2359f7,"52.759133, 10.270750",1,6,6:20:00,"Branta canadensis , Phalacrocorax carbo",5,"Code 1: Fully grown individual in possible breeding biotope , Code 2: Singing or belching individual in possible breeding biotope","2 Branta c., 3 Phalacrocorax c."
+Claudia Maistrelli - Lilja Fromme,3/24/2022,e4b1a740,"52.758167, 10.271033",1,7,11:51:23,none,0,,
+Claudia Maistrelli - Lilja Fromme,3/24/2022,72ef618a,"52.757450, 10.271250",1,8,6:20:00,"Aythya fuligula , Erithacus rubecula",3,"Code 1: Fully grown individual in possible breeding biotope , Code 2: Singing or belching individual in possible breeding biotope","2 Aythya f. code 1, 1 Erithacus r. code 2"
+Claudia Maistrelli - Lilja Fromme,3/24/2022,d88b08c5,"52.756600, 10.271550",1,9,6:20:00,none,0,,
+Claudia Maistrelli - Lilja Fromme,3/24/2022,8462a4ca,"52.756433, 10.270717",1,10,6:20:00,Phalacrocorax carbo,1,Code 1: Fully grown individual in possible breeding biotope,
+Claudia Maistrelli - Lilja Fromme,4/7/2022,70e99fc6,"52.756900, 10.271350",1,0,7:00:00,Milvus milvus,1,Code 1: Fully grown individual in possible breeding biotope,
+Claudia Maistrelli - Lilja Fromme,4/7/2022,d8135572,"52.756550, 10.269983",1,2,7:20:00,Anser anser,2,Code 3: Couple in suitable breeding biotope,
+Claudia Maistrelli - Lilja Fromme,4/7/2022,f06a85e6,"52.757367, 10.269667",1,2,7:00:00,Ciconia ciconia,2,Code 3: Couple in suitable breeding biotope,
+Claudia Maistrelli - Lilja Fromme,4/7/2022,792778ff,"52.758250, 10.269733",1,3,7:00:00,"Grus grus , Pandion haliaetus , Phalacrocorax carbo",6,"Code 1: Fully grown individual in possible breeding biotope , Code 2: Singing or belching individual in possible breeding biotope",
+Claudia Maistrelli - Lilja Fromme,4/7/2022,998f87a4,"52.758917, 10.269917",1,4,7:00:00,"Anser anser , Cygnus olor , Falco tinnunculus",7,"Code 1: Fully grown individual in possible breeding biotope , Code 3: Couple in suitable breeding biotope",
+Claudia Maistrelli - Lilja Fromme,4/7/2022,bebbd95d,"52.759767, 10.270300",1,5,7:00:00,Anas platyrhynchos,3,Code 1: Fully grown individual in possible breeding biotope,3 males
+Claudia Maistrelli - Lilja Fromme,4/7/2022,7cd8e41a,"52.759133, 10.270750",1,6,7:00:00,Milvus milvus,1,Code 1: Fully grown individual in possible breeding biotope,
+Claudia Maistrelli - Lilja Fromme,4/7/2022,e04f57de,"52.758167, 10.271033",1,7,7:00:00,Anas platyrhynchos,3,"Code 1: Fully grown individual in possible breeding biotope , Code 3: Couple in suitable breeding biotope",
+Claudia Maistrelli - Lilja Fromme,4/7/2022,3bc19fde,"52.757450, 10.271250",1,8,7:00:00,none,0,,
+Claudia Maistrelli - Lilja Fromme,4/7/2022,9ccb24b3,"52.756600, 10.271550",1,9,7:00:00,Anas platyrhynchos,2,Code 3: Couple in suitable breeding biotope,
+Claudia Maistrelli - Lilja Fromme,4/7/2022,fa4d3656,"52.756433, 10.270717",1,10,8:05:00,"Anser anser , Ardea cinerea",3,"Code 1: Fully grown individual in possible breeding biotope , Code 3: Couple in suitable breeding biotope",
+Harmen verboom & Jeroen Gruijters,09/03/2022,,"51,89592, 6,09213
+",Aerdt,2,7:15,Aythya fuligula,2,Code 3: Couple in suitable breeding biotope,
+Harmen verboom & Jeroen Gruijters,09/03/2022,,"51,89695, 6,09326
+",Aerdt,5,7:24,Mareca strepera,2,Code 3: Couple in suitable breeding biotope,
+Harmen verboom,13/04/2022,,"51,89495, 6,09141
+",Aerdt,1,6:48,Botaurus stellaris,1,Code 2,
+Harmen verboom,13/04/2022,,"51,89592, 6,09213
+",Aerdt,2,6:54,Luscinia svecica,2,Code 2,
+Harmen verboom,13/04/2022,,"51,89632, 6,09084
+",Aerdt,3,6:59,Spatula clypeata,6,Code 2,
+Harmen verboom,13/04/2022,,"51,89632, 6,09084
+",Aerdt,3,6:59,Athya ferina,10,Code 2,
+Harmen verboom,13/04/2022,,"51,89632, 6,09084
+",Aerdt,3,6:59,Aythya fuligula,2,Code 2,
+Harmen verboom,13/04/2022,,"51,89665, 6,09209
+",Aerdt,4,7:08,Luscinia svecica,2,Code 2,
+Harmen verboom,26/05/2022,,"51,89592, 6,09213
+",Aerdt,2,6:48,Spatula clypeata,2,Code 3: Couple in suitable breeding biotope,
+Harmen verboom,26/05/2022,,"51,89592, 6,09213
+",Aerdt,2,6:48,Aythya fuligula,2,Code 3: Couple in suitable breeding biotope,
+Harmen verboom,26/05/2022,,"51,89592, 6,09213
+",Aerdt,2,6:48,Chilidonias niger,1,Code 2,
+Harmen verboom,26/05/2022,,"51,89632, 6,09084
+",Aerdt,3,6:57,Spatula clypeata,1,Code 2,
+Harmen Verboom,24/06/2022,,"51,89592, 6,09213
+",Aerdt,2,5:40,Tachybaptus ruficollis,1,Code 2,
+Harmen Verboom,24/06/2022,,"51,89632, 6,09084
+",Aerdt,3,5:47,Chilidonias niger,3,Code 2,
+Harmen Verboom,24/06/2022,,"51,89592, 6,09213
+",Aerdt,5,6:01,Aythya fuligula,3,Code 2,
+Jeroen Gruijters,28/04/2022,,"51,89592, 6,09213
+",Aerdt,2,12:23,Tachybaptus ruficollis,1,Code 2,
+Jeroen Gruijters,28/04/2022,,"51,89592, 6,09213
+",Aerdt,5,12:38,Aythya fuligula,5,"Code 1: Fully grown individual in possible breeding biotope , Code 3: Couple in suitable breeding biotope",
+Harmen Verboom,13/06/2022,,"51,89495, 6,09141
+",Aerdt,1,0:10,Botaurus stellaris,1,Code 2,
+Jeroen Gruijters,22/03/2022,,"51,915024, 6,006477
+",Gemaal,4,7:10,Aythya fuligula,5,"Code 1: Fully grown individual in possible breeding biotope , Code 3: Couple in suitable breeding biotope",
+Harmen Verboom,13/04/2022,,"51,913931, 5,998755
+
+, ",Gemaal,1,7:01,Aythya fuligula,2,Code 2,
+Harmen Verboom,13/04/2022,,"51,915024, 6,006477
+",Gemaal,4,7:16,Mareca strepera,2,Code 3: Couple in suitable breeding biotope,
+Jeroen Gruijters,09/05/2022,,"51,914393, 6,004059
+",Gemaal,3,6:10,Mareca strepera,1,Code 1: Fully grown individual in possible breeding biotope,

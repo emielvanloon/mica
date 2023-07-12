@@ -1,0 +1,129 @@
+﻿Sub location (Area),PQ number,Round,Year,Month,Day,Time,Species (ger/lat),Species (lat),Category,Bemerkung/Note/Coverage
+AT1,1,1,2020,8,27,10:15,Breitblättriger Rohrkolben (Typha latifolia),Typha latifolia,2,
+AT1,1,1,2020,8,27,10:15,Rohrglanzgras (Phalaris arundinacea),Phalaris arundinacea,5,
+AT1,1,1,2020,8,27,10:15,Wasserknöterich (Persicaria amphibia),Persicaria amphibia,1,
+AT1,2,1,2020,8,27,10:45,Landreitgras (Calamagrostis epigejos),Calamagrostis epigejos,2,
+AT1,2,1,2020,8,27,10:45,Wasser Schwaden (Glyceria maxima),Glyceria maxima,3,
+AT1,2,1,2020,8,27,10:45,Breitblättriger Rohrkolben (Typha latifolia),Typha latifolia,2,
+AT1,2,1,2020,8,27,10:45,Weißes Straußgras (Agrostis stolonifera),Agrostis stolonifera,1,
+AT1,3,1,2020,8,27,9:45,Schilf (Phragmites australis),Phragmites australis,4,
+AT1,4,1,2020,8,27,11:15,Wasser Schwaden (Glyceria maxima),Glyceria maxima,5,
+AT1,4,1,2020,8,27,11:15,Breitblättriger Rohrkolben (Typha latifolia),Typha latifolia,+,
+AT1,4,1,2020,8,27,11:15,Landreitgras (Calamagrostis epigejos),Calamagrostis epigejos,R,
+DS1,1,1,2020,9,23,14:30,Breitblättriger Rohrkolben (Typha latifolia),Typha latifolia,2,10% Deckung
+DS1,1,1,2020,9,23,14:30,Rohr Glanzgras (Phalaris arundinacea),Phalaris arundinacea,2,25% Deckung
+DS1,1,1,2020,9,23,14:30,Flatterbinse (Juncus effusus),Juncus effusus,3,50% Deckung
+DS1,1,1,2020,9,23,14:30,Wasserminze (Mentha aquatica),Mentha aquatica,2,20% Deckung
+DS1,1,1,2020,9,23,14:30,Wolfstrapp (Lycopus),Lycopus,2,10-15%
+DS1,1,1,2020,9,23,14:30,Wasserknöterich (Persicaria amphibia),Persicaria amphibia,,
+DS1,2,1,2020,9,23,14:30,Schilf (Phragmites australis),Phragmites australis,3,50% Deckung
+DS1,2,1,2020,9,23,14:30,Breitblättriger Rohrkolben (Typha latifolia),Typha latifolia,2,15% Deckung
+DS1,2,1,2020,9,23,14:30,Flatterbinse (Juncus effusus),Juncus effusus,2,20% Deckung
+DS1,2,1,2020,9,23,14:30,Wasserminze (Mentha aquatica),Mentha aquatica,R,
+DS1,2,1,2020,9,23,14:30,Wolfstrapp (Lycopus),Lycopus,+,
+DS1,2,1,2020,9,23,14:30,Brennessel (Urtica),Urtica,2,15% Deckung
+DS1,3,1,2020,9,23,14:30,Breitblättriger Rohrkolben (Typha latifolia),Typha latifolia,5,90% Deckung
+DS1,3,1,2020,9,23,14:30,Rohr Glanzgras (Phalaris arundinacea),Phalaris arundinacea,2,10-20% Deckung
+DS1,4,1,2020,9,23,14:30,Schilf (Phragmites australis),Phragmites australis,3,30-40% Deckung
+DS1,4,1,2020,9,23,14:30,Rohr Glanzgras (Phalaris arundinacea),Phalaris arundinacea,2,25% Deckung
+DS1,4,1,2020,9,23,14:30,Wasser Schwaden (Glyceria maxima),Glyceria maxima,+,
+DS1,4,1,2020,9,23,14:30,Brennessel,#VALUE!,3,30-40% Deckung
+V3,1,1,2020,9,6,,Schwarzerle (Alnus glutinosa),Alnus glutinosa,1,5
+V3,1,1,2020,9,6,,Scheinzypergras Segge (Carex Pseudocyperus),Carex Pseudocyperus,1, selten 5
+V3,1,1,2020,9,6,,Echter Wurmfarn (Dryopteris filix-mas),Dryopteris filix-mas,+,1
+V3,1,1,2020,9,6,,Kleine Wasserlinse (Lemna minor),Lemna minor,R,0.1
+V3,1,1,2020,9,6,,Ufer-Wolfstrap (Lycopus europaeus),Lycopus europaeus,1,5
+V3,1,1,2020,9,6,,Gewöhnlicher Gilbweiderich (Lysmachia vulgaris),Lysmachia vulgaris,1,5
+V3,1,1,2020,9,6,,Gelbe Teichrose (Nuphar lutea),Nuphar lutea,2,10
+V3,1,1,2020,9,6,,Brombeere (Rubus fructicosus agg.),Rubus fructicosus agg.,R,0.1
+V3,1,1,2020,9,6,,Sumpf-Helmkraut (Scutellaria galericulata),Scutellaria galericulata,+,1
+V3,2,1,2020,9,6,,Echte Zaunwinde (Calystegia sepium),Calystegia sepium,+,1
+V3,2,1,2020,9,6,,Wasser Schwaden (Glyceria maxima),Glyceria maxima,5,90
+V3,2,1,2020,9,6,,Sumpfschwertlilie (Iris pseudacorus),Iris pseudacorus,1,1
+V3,2,1,2020,9,6,,Kleine Wasserlinse (Lemna minor),Lemna minor,1,5
+V3,2,1,2020,9,6,,Ufer Wolfstrap (Lycopus europaeus),Lycopus europaeus,R,0.1
+V3,2,1,2020,9,6,,Gewöhnliches Rispengras (Poa trivialis),Poa trivialis,2,10
+V3,2,1,2020,9,6,,Wasser Sumpfkresse (Rorippa amphibia),Rorippa amphibia,+,1
+V3,2,1,2020,9,6,,Brombeere (Rubus fructicosus agg.),Rubus fructicosus agg.,R,0.1
+V3,2,1,2020,9,6,,Bittersüßer Nachtschatten (Solanum dulcamara),Solanum dulcamara,+,1
+V3,2,1,2020,9,6,,Sumpfziest (Stachys palustris),Stachys palustris,+,1
+V3,2,1,2020,9,6,,Große Brennnessel (Urtica dioica),Urtica dioica,+,1
+V3,3,1,2020,9,6,,Schwarzfüchtiger Zweizahn (Bidens frondosa),Bidens frondosa,R,"Neophyt 0,1"
+V3,3,1,2020,9,6,,Echte Zaunwinde (Calystegia sepium),Calystegia sepium,+,1
+V3,3,1,2020,9,6,,Scheinzypergras Segge (Carex pseudocyperus),Carex pseudocyperus,2,10
+V3,3,1,2020,9,6,,Windenknöterich (Fallopia convolvulus),Fallopia convolvulus,R,0.1
+V3,3,1,2020,9,6,,Wasserschwaden (Glyceria maxima),Glyceria maxima,+,1
+V3,3,1,2020,9,6,,Wolliges Honiggras (Holcus lanatus),Holcus lanatus,+,1
+V3,3,1,2020,9,6,,Kleine Wasserlinse (Lemna minor),Lemna minor,1,5
+V3,3,1,2020,9,6,,Ufer Wolfstrap (Lycopus europaeus),Lycopus europaeus,+,1
+V3,3,1,2020,9,6,,Gewöhnlicher Gilbweiderich (Lysmachia vulgaris),Lysmachia vulgaris,+,2
+V3,3,1,2020,9,6,,Vergissmeinnicht (Myosotis palustris),Myosotis palustris,R,0.1
+V3,3,1,2020,9,6,,Gelbe Teichrose (Nuphar lutea),Nuphar lutea,1,5
+V3,3,1,2020,9,6,,Gewöhnliches Rispengras (Poa trivialis),Poa trivialis,1,5
+V3,3,1,2020,9,6,,Brombeere (Rubus fructicosus agg.),Rubus fructicosus agg.,+,1
+V3,3,1,2020,9,6,,Sumpf-Helmkraut (Scutellaria galericulata),Scutellaria galericulata,+,1
+V3,3,1,2020,9,6,,Rote Lichtnelke (Silene dioica),Silene dioica,R,0.1
+V3,3,1,2020,9,6,,Große Brennnessel (Urtica dioica),Urtica dioica,+,1
+V3,4,1,2020,9,6,,Schwarzfüchtiger Zweizahn (Bidens frondosa),Bidens frondosa,R,0.1
+V3,4,1,2020,9,6,,Echte Zaunwinde (Calystegia sepium),Calystegia sepium,+,2
+V3,4,1,2020,9,6,,Scheinzypergras Segge (Carex pseudocyperus),Carex pseudocyperus,1,5
+V3,4,1,2020,9,6,,Schmalblättriges Weidenröschen (Eplilobium angustifolium),Eplilobium angustifolium,R,0.1
+V3,4,1,2020,9,6,,Echter Hopfen (Humulus lupulus),Humulus lupulus,R,0.1
+V3,4,1,2020,9,6,,Kleine Wasserlinse (Lemna minor),Lemna minor,1,5
+V3,4,1,2020,9,6,,Ufer Wolfstrap (Lycopus europaeus),Lycopus europaeus,1,5
+V3,4,1,2020,9,6,,Acker Minze (Mentha arvensis),Mentha arvensis,+,1
+V3,4,1,2020,9,6,,Gelbe Teichrose (Nuphar lutea),Nuphar lutea,3,25
+V3,4,1,2020,9,6,,Schilfrohr (Phragmites australis),Phragmites australis,2,15
+V3,4,1,2020,9,6,,Wassersumpfkresse (Rorippa amphibia),Rorippa amphibia,+,3
+V3,4,1,2020,9,6,,Wald-Simse (Scirpus sylvaticus),Scirpus sylvaticus,1,5
+V3,4,1,2020,9,6,,Bittersüßer Nachtschatten (Solanum dulcamara),Solanum dulcamara,+,1
+V3,4,1,2020,9,6,,Sumpfziest (Stachys palustris),Stachys palustris,#VALUE!,1
+V3,4,1,2020,9,6,,Große Brennnessel (Urtica dioica),Urtica dioica,1,5
+AT1,1,2,2021,7,15,11:30,Wasserschwaden (Glyceria maxima),Glyceria maxima,5,80% Deckung
+AT1,1,2,2021,7,15,11:30:00 AM,Breitblättriger Rohrkolben (Typha latifolia),Typha latifolia, + ,5% Deckung
+AT1,2,2,2021,7,15,11:30,Breitblättriger Rohrkolben (Typha latifolia),Typha latifolia, + ,< 5% Deckung
+AT1,2,2,2021,7,15,11:30:00 AM,Rohrglanzgras (Phalaris arundinacea),Phalaris arundinacea,1,5% Deckung plus X1
+AT1,2,2,2021,7,15,11:30,Segge,#VALUE!,R,< 5% Deckung
+AT1,2,2,2021,7,15,11:30:00 AM,Landreitgras (Calamagrostis epigejos),Calamagrostis epigejos, + ,< 5% Deckung
+AT1,2,2,2021,7,15,11:30,Flatterbinse (Juncus effusus),Juncus effusus,R,< 5% Deckung
+AT1,2,2,2021,7,15,11:30:00 AM,Wasserschwaden (Glyceria maxima),Glyceria maxima,2,10% Deckung
+AT1,2,2,2021,7,15,11:30,X1,#VALUE!,3,50% Deckung
+AT1,3,2,2021,7,15,11:30:00 AM,Schilf (Phragmites australis),Phragmites australis,5,75% Deckung
+AT1,4,2,2021,7,15,11:30,Breitblättriger Rohrkolben (Typha latifolia),Typha latifolia,1,5% Deckung
+AT1,4,2,2021,7,15,11:30:00 AM,Wasserschwaden (Glyceria maxima),Glyceria maxima,3,50% Deckung
+AT1,4,2,2021,7,15,11:30,Walzensegge,#VALUE!, + ,5% Deckung
+DS1,1,1,2021,8,18,9:40,Breitblättriger Rohrkolben (Typha latifolia),Typha latifolia,R,< 5% Deckung
+DS1,1,1,2021,8,18,9:40,Flatterbinse (Juncus effusus),Juncus effusus,3,40% Deckung
+DS1,1,1,2021,8,18,9:40,Bsp1,#VALUE!,1,
+DS1,1,1,2021,8,18,9:40,Wasserminze (Mentha aquatica),Mentha aquatica,2,20-25% Deckung
+DS1,1,1,2021,8,18,9:40,Wolfstrapp (Lycopus),Lycopus,+,5% Deckung
+DS1,2,1,2021,8,18,9:40,Schilf (Phragmites australis),Phragmites australis,4,65% Deckung
+DS1,2,1,2021,8,18,9:40,Landreitgras (Calamagrostis epigejos),Calamagrostis epigejos,+,
+DS1,2,1,2021,8,18,9:40,Landreitgras (Calamagrostis epigejos),Calamagrostis epigejos,+,<5%Deckung
+DS1,2,1,2021,8,18,9:40,Flatterbinse (Juncus effusus),Juncus effusus,+,<5% Deckung
+DS1,2,1,2021,8,18,9:40,Wasserminze (Mentha aquatica),Mentha aquatica,+,<5% Deckung
+DS1,2,1,2021,8,18,9:40,Wolfstrapp (Lycopus),Lycopus,R,
+DS1,2,1,2021,8,18,9:40,Gänsefingerkraut,#VALUE!,+,
+DS1,2,1,2021,8,18,9:40,Brennessel (Urtica),Urtica,+,<5% Deckung
+DS1,3,1,2021,8,18,9:40,Breitblättriger Rohrkolben (Typha latifolia),Typha latifolia,4,75% Deckung
+DS1,3,1,2021,8,18,9:40,Weißes Straußgras (Agrostis stolonifera),Agrostis stolonifera,1,<5%Deckung
+DS1,3,1,2021,8,18,9:40,Landreitgras (Calamagrostis epigejos),Calamagrostis epigejos,2,20% Deckung
+DS1,4,1,2021,8,18,9:40,Schilf (Phragmites australis),Phragmites australis,R,<5%% Deckung
+DS1,4,1,2021,8,18,9:40,Brennessel (Urtica),Urtica,R,<5% Deckung
+DS1,4,1,2021,8,18,9:40,Wasser Schwaden (Glyceria maxima),Glyceria maxima,5,80%Deckung
+AT1,1,1,2022,8,12,11:00,Wasserschwaden (Glyceria maxima),Glyceria maxima,1,5%
+AT1,1,1,2022,8,12,11:00,Breitblättriger Rohrkolben (Typha latifolia),Typha latifolia,5,85%
+AT1,2,1,2022,8,12,10:45:00 AM,Weißes Straußgras (Agrostis stolonifera),Agrostis stolonifera,2,"10% (about 25% without vegetation, water 20m apart, extrem dry)"
+AT1,2,1,2022,8,12,10:45:00 AM,Breitblättriger Rohrkolben (Typha latifolia),Typha latifolia,R,5%
+AT1,2,1,2022,8,12,10:45:00 AM,Landreitgras (Calamagrostis epigejos),Calamagrostis epigejos,4,60%
+AT1,2,1,2022,8,12,10:45:00 AM,Leguminosae,#VALUE!,1,5%
+AT1,3,1,2022,8,12,11:15:00 AM,Schilf (Phragmites australis),Phragmites australis,4,60%
+AT1,4,1,2022,8,12,11:20:00 AM,Wasser Schwaden (Glyceria maxima),Glyceria maxima,4,60% (40% without vegetation)
+DS1,1,1,2022,9,12,15:15,Breitblättriger Rohrkolben (Typha latifolia),Typha latifolia,+,2%
+DS1,1,1,2022,9,12,15:15,Flatterbinse (Juncus effusus),Juncus effusus,+,2%
+DS1,2,1,2022,9,12,15:20,Carex,#VALUE!,2,7%
+DS1,2,1,2022,9,12,15:20,Breitblättriger Rohrkolben (Typha latifolia),Typha latifolia,+,2%
+DS1,2,1,2022,9,12,15:20,Flatterbinse (Juncus effusus),Juncus effusus,+,2%
+DS1,3,1,2022,9,12,16:20,Breitblättriger Rohrkolben (Typha latifolia),Typha latifolia,5,80%
+DS1,4,1,2022,9,12,16:15,Wasserschwaden (Glyceria maxima),Glyceria maxima,4,50%
+DS1,4,,2022,9,12,16:15,Schilf (Phragmites australis),Phragmites australis,2,20%

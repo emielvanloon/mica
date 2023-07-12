@@ -1,0 +1,25 @@
+Observer,Location,ID,Date,PQ #,Transect #,Stop #,Distance to previous stop (m),Latitude Longitude,Temperature,Cloud cover,Precipitation,Wind (Beaufort Scale),Notes
+Claudia Maistrelli,"52.756900, 10.271350",bd7be019,3/24/2022,,1,0,0,,-1,light fog,none,1,
+Claudia Maistrelli - Lilja Fromme,"52.756900, 10.271350",7bc4f81c,4/7/2022,,1,0,0,,9,7/8,none,4,
+"Emma Cartuyvels, Frank Huysentruyt","51.178633, 5.664763",3f3717cf,6/1/2022,,1,,,,9,60,0,,
+Jeroen Gruijters,Gemaal,,11-07-2022,,1,,,,17,8/8,none,2,
+Harmen Verboom,Gemaal,,15-06-2022,,1,,,,22,0/8,none,3,
+Harmen Verboom,Aerdt,,08-07-2022,,1,,,,22,6/8,none,2,
+Jeroen Gruijters,Aerdt,,15-06-2022,,1,,,,20,0/8,none,3,
+Jeroen Gruijters,Aerdt,,11/07/2022,,1,,,,17,8/8,none,1,
+Harmen Verboom,Aerdt,,23-06-2022,,1,,,,29,1/8,none,3,
+Jeroen Gruijters,Gemaal,,09-06-2022,,,,,,19,2/8,none,2,
+Jeroen Gruijters,Gemaal,,30-06-2022,,1,,,,25,2/8,None,2,
+Harmen Verboom,Aerdt,,09/03/2022,,,,,,8,8/8,none,1,
+Harmen Verboom,Gemaal,,09/05/2022,,,,,,6,0/8,none,1,
+Harmen Verboom,Aerdt,,26/05/2022,,,,,,14,8/8,None,3,
+Harmen Verboom,Aerdt,,20/05/2022,,,,,,7,0/8,none,1,light fog
+Harmen Verboom,Gemaal,,28/04/2022,,,,,,10,0/8,none,2,
+Harmen Verboom,Aerdt,,13/06/2022,,,,,,9,0/8,None,1,
+Jeroen Gruijters,Gemaal,,22/03/2022,,,,,,8,0/8,None,2,
+Jeroen Gruijters,Gemaal,,13/04/2022,,,,,,85,0/8,None,1,
+Jeroen Gruijters,Gemaal,,09/05/2022,,,,,,6,0/8,none,1,
+Jeroen Gruijters,Gemaal,,20/05/2022,,,,,,7,0/8,None,1,Heavy fog
+Jeroen Gruijters,Aerdt,,28/04/2022,,,,,,12,1/8,None,2,
+Jeroen Gruijters,Gemaal,,09/06/2022,,,,,,11,2/8,none,1,
+Jeroen Gruijters & Harmen Verboom,Aerdt & Gemaal,,29/08/2022,,,,,,19,6/8,None,3,Did all PQ's vegetation in 1 day
